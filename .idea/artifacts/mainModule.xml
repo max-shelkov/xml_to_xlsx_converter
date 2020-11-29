@@ -1,0 +1,37 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" build-on-make="true" name="mainModule">
+    <output-path>$PROJECT_DIR$/out/artifacts/mainModule</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="mainModule.AppWindow" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="nativeBundle" value="all" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="mainModule.jar">
+        <element id="module-output" name="mainModule" />
+      </element>
+      <element id="library" level="project" name="com.squareup.retrofit2:converter-simplexml:2.3.0" />
+      <element id="library" level="project" name="Maven: com.github.virtuald:curvesapi:1.06" />
+      <element id="library" level="project" name="Maven: com.zaxxer:SparseBitSet:1.2" />
+      <element id="library" level="project" name="Maven: commons-codec:commons-codec:1.13" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-collections4:4.4" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-compress:1.19" />
+      <element id="library" level="project" name="Maven: org.apache.commons:commons-math3:3.6.1" />
+      <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml-schemas:4.1.2" />
+      <element id="library" level="project" name="Maven: org.apache.poi:poi-ooxml:4.1.2" />
+      <element id="library" level="project" name="Maven: org.apache.poi:poi:4.1.2" />
+      <element id="library" level="project" name="Maven: org.apache.xmlbeans:xmlbeans:3.1.0" />
+      <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-common:1.4.20" />
+      <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk7:1.4.20" />
+      <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib-jdk8:1.4.20" />
+      <element id="library" level="project" name="Maven: org.jetbrains.kotlin:kotlin-stdlib:1.4.20" />
+      <element id="library" level="project" name="Maven: org.jetbrains:annotations:13.0" />
+    </root>
+  </artifact>
+</component>
