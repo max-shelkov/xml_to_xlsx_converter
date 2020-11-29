@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06"><generation-date>2020-11-25T14:20:42+03:00</generation-date> <offer internal-id='15300303713'>
+<?xml version="1.0" encoding="UTF-8"?><realty-feed xmlns="http://webmaster.yandex.ru/schemas/feed/realty/2010-06"><generation-date>2020-11-29T14:20:40+03:00</generation-date> <offer internal-id='15300303713'>
         <type>продажа</type>
         <property-type>жилая</property-type>
         <category>квартира</category>
@@ -16,9 +16,7 @@
             <name>Абарис Татьяна</name><url> elfidel.com</url><email>abaris.realty@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_3.jpg</photo></sales-agent>
         <price>
             <value>3750000</value>
-           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type></rooms-type><floor>5</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_7cWAOxvyZgcN.jpg</image><image>https://2bishop.ru/pictures/53003/53003_1NQ3b5vEilpD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_A6QdZpNn2Tk8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_V3O2J9zuXiJm.jpg</image><image>https://2bishop.ru/pictures/53003/53003_OnGvC1UqmM2t.jpg</image><image>https://2bishop.ru/pictures/53003/53003_FTQjAvmS7jgE.jpg</image><image>https://2bishop.ru/pictures/53003/53003_xZzuOUwmSxxi.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Piw61ppQBEMc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_bcHDsPdZRTgb.jpg</image><image>https://2bishop.ru/pictures/53003/53003_E42KD5mPIkKy.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sfU8AJBzkc5Q.jpg</image><image>https://2bishop.ru/pictures/53003/53003_MbGdjfAq9eqV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yYmdOOuxXeiU.jpg</image>
-         <quality>хорошее</quality>
-
+           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type></rooms-type><floor>5</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_7cWAOxvyZgcN.jpg</image><image>https://2bishop.ru/pictures/53003/53003_1NQ3b5vEilpD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_A6QdZpNn2Tk8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_V3O2J9zuXiJm.jpg</image><image>https://2bishop.ru/pictures/53003/53003_OnGvC1UqmM2t.jpg</image><image>https://2bishop.ru/pictures/53003/53003_FTQjAvmS7jgE.jpg</image><image>https://2bishop.ru/pictures/53003/53003_xZzuOUwmSxxi.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Piw61ppQBEMc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_bcHDsPdZRTgb.jpg</image><image>https://2bishop.ru/pictures/53003/53003_E42KD5mPIkKy.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sfU8AJBzkc5Q.jpg</image><image>https://2bishop.ru/pictures/53003/53003_MbGdjfAq9eqV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yYmdOOuxXeiU.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -45,9 +43,7 @@
             <name>Абарис Татьяна</name><url> elfidel.com</url><email>abaris.realty@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_3.jpg</photo></sales-agent>
         <price>
             <value>550000</value>
-           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type></rooms-type><floor>2</floor><floors-total>2</floors-total><image>https://2bishop.ru/pictures/53003/53003_4ebdcBxqiE49.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sdBIOY16obiN.jpg</image><image>https://2bishop.ru/pictures/53003/53003_YRCToWBcST3J.jpg</image><image>https://2bishop.ru/pictures/53003/53003_KF36kSnqyJm6.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Xzr3yvN2crMw.jpg</image><image>https://2bishop.ru/pictures/53003/53003_65qGT26jkw3d.jpg</image><image>https://2bishop.ru/pictures/53003/53003_EfxPRn1ArvbY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NliCfIALeJa5.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kkNztpx1Eo9u.jpg</image><image>https://2bishop.ru/pictures/53003/53003_PdaSvKPKCVhg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kbz9ttvjcz3E.jpg</image>
-         <quality>хорошее</quality>
-
+           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type></rooms-type><floor>2</floor><floors-total>2</floors-total><image>https://2bishop.ru/pictures/53003/53003_4ebdcBxqiE49.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sdBIOY16obiN.jpg</image><image>https://2bishop.ru/pictures/53003/53003_YRCToWBcST3J.jpg</image><image>https://2bishop.ru/pictures/53003/53003_KF36kSnqyJm6.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Xzr3yvN2crMw.jpg</image><image>https://2bishop.ru/pictures/53003/53003_65qGT26jkw3d.jpg</image><image>https://2bishop.ru/pictures/53003/53003_EfxPRn1ArvbY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NliCfIALeJa5.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kkNztpx1Eo9u.jpg</image><image>https://2bishop.ru/pictures/53003/53003_PdaSvKPKCVhg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kbz9ttvjcz3E.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -74,9 +70,7 @@
             <name>Абарис Татьяна</name><url> elfidel.com</url><email>abaris.realty@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_3.jpg</photo></sales-agent>
         <price>
             <value>390000</value>
-           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>1</rooms><rooms-type></rooms-type><floor>2</floor><floors-total>2</floors-total><image>https://2bishop.ru/pictures/53003/53003_TLKFAnXMLDRU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Jytuo7G3JQKz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6X1AlHajdgW7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_EDCkDPGvqKjQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RpF98FeGOg2k.jpg</image>
-         <quality>хорошее</quality>
-
+           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>1</rooms><rooms-type></rooms-type><floor>2</floor><floors-total>2</floors-total><image>https://2bishop.ru/pictures/53003/53003_TLKFAnXMLDRU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Jytuo7G3JQKz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6X1AlHajdgW7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_EDCkDPGvqKjQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RpF98FeGOg2k.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -89,7 +83,7 @@
         <type>продажа</type>
         <property-type>жилая</property-type>
         <category>комната</category>
-        <url>https://2bishop.ru/aparts/4093_53003/</url><creation-date>2020-03-30T03:00:00+03:00</creation-date><last-update-date>2020-06-14T20:48:54+03:00</last-update-date>
+        <url>https://2bishop.ru/aparts/4093_53003/</url><creation-date>2020-03-30T03:00:00+03:00</creation-date><last-update-date>2020-11-27T16:50:06+03:00</last-update-date>
         <manually-added>1</manually-added>
         <location>
             <country>Россия</country><region>Новгородская область</region>
@@ -103,9 +97,7 @@
             <name>Тулина Мария</name><url> elfidel.com</url><email>mariya.tulina@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_2.jpg</photo></sales-agent>
         <price>
             <value>380000</value>
-           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>5</rooms><rooms-offered>5</rooms-offered><rooms-type></rooms-type><floor>4</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_yEYGxy8hpyEz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_o8Tz3bsrzk3K.jpg</image><image>https://2bishop.ru/pictures/53003/53003_voEUqGlPfeBO.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nZxrxOC5hRnd.jpg</image><image>https://2bishop.ru/pictures/53003/53003_HPYuLnoKA29B.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Z2GEf1u34piH.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Yd1co1tTF4jO.jpg</image><image>https://2bishop.ru/pictures/53003/53003_jpOWrtfVyx1G.jpg</image>
-         <quality>хорошее</quality>
-
+           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>5</rooms><rooms-offered>5</rooms-offered><rooms-type></rooms-type><floor>4</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_yEYGxy8hpyEz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_o8Tz3bsrzk3K.jpg</image><image>https://2bishop.ru/pictures/53003/53003_voEUqGlPfeBO.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nZxrxOC5hRnd.jpg</image><image>https://2bishop.ru/pictures/53003/53003_HPYuLnoKA29B.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Z2GEf1u34piH.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Yd1co1tTF4jO.jpg</image><image>https://2bishop.ru/pictures/53003/53003_jpOWrtfVyx1G.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -146,7 +138,7 @@
         <type>продажа</type>
         <property-type>жилая</property-type>
         <category>комната</category>
-        <url>https://2bishop.ru/aparts/4156_53003/</url><creation-date>2020-03-30T03:00:00+03:00</creation-date><last-update-date>2020-10-12T12:55:00+03:00</last-update-date>
+        <url>https://2bishop.ru/aparts/4156_53003/</url><creation-date>2020-03-30T03:00:00+03:00</creation-date><last-update-date>2020-11-27T16:49:50+03:00</last-update-date>
         <manually-added>1</manually-added>
         <location>
             <country>Россия</country><region>Новгородская область</region>
@@ -160,9 +152,7 @@
             <name>Тулина Мария</name><url> elfidel.com</url><email>mariya.tulina@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_2.jpg</photo></sales-agent>
         <price>
             <value>300000</value>
-           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>1</rooms><rooms-offered>1</rooms-offered><rooms-type></rooms-type><floor>1</floor><floors-total>9</floors-total><image>https://2bishop.ru/pictures/53003/53003_qJwhyNxbzO1Z.jpg</image><image>https://2bishop.ru/pictures/53003/53003_F8nRwh6N9Zy7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_YbBiayjdmLV3.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LHGnyBjvAUqF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_qcu1BPsB5yIz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IMCLEeNHmjiW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_AGPbnufQQOdF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_aDB1WkuOnUiD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_tqqTB6fc47Sb.jpg</image>
-         <quality>хорошее</quality>
-
+           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>1</rooms><rooms-offered>1</rooms-offered><rooms-type></rooms-type><floor>1</floor><floors-total>9</floors-total><image>https://2bishop.ru/pictures/53003/53003_qJwhyNxbzO1Z.jpg</image><image>https://2bishop.ru/pictures/53003/53003_F8nRwh6N9Zy7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_YbBiayjdmLV3.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LHGnyBjvAUqF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_qcu1BPsB5yIz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IMCLEeNHmjiW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_AGPbnufQQOdF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_aDB1WkuOnUiD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_tqqTB6fc47Sb.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -171,36 +161,7 @@
     	 <video-review></video-review>
      <description>Предлагается к продаже уютная комната с отличным ремонтом в Западном районе, Космонавтов 24 Площадь комнаты: 11 кв.м. Сделан свежий ремонт!Стены выровнены и поклеены качественные обои.Потолок отштукатурен.Установлены стеклопакеты и решетка на окне.На полу линолеум.Новая входная дверь. Протянуты кабели для интернета и телевидения. В Подарок хозяйка оставляет новую и современную стенку-шкаф. КСТ на 4 комнаты. Места общего пользования в обычном состоянии. Во дворе современная и большая детская площадка. В этом же доме недавно открыли магазин Осень, что особенно упрощает поход в магазин. Комната ждёт своего нового хозяина! Документы готовы к сделке. Звоните, покажу с удовольствием!</description>
      <building-type>Кирпичный</building-type>
-     <building-series>Общежитие</building-series><area><value>12.00</value><unit>кв.м</unit></area><living-space><value>12.00</value><unit>кв.м</unit></living-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='15300304169'>
-        <type>продажа</type>
-        <property-type>жилая</property-type>
-        <category>квартира</category>
-        <url>https://2bishop.ru/aparts/4169_53003/</url><creation-date>2020-03-30T03:00:00+03:00</creation-date><last-update-date>2020-10-12T12:56:43+03:00</last-update-date>
-        <manually-added>1</manually-added>
-        <location>
-            <country>Россия</country><region>Новгородская область</region>
-	          <locality-name>Великий Новгород</locality-name>
-	          <sub-locality-name></sub-locality-name><address>Посольская улица, дом 7/7</address><latitude>58.5125770000000</latitude><longitude>31.2906149000000</longitude> </location>
-
-
-        <sales-agent><phone>+79633345368</phone>
-         <category>агентство</category>
-            <organization>АН Эльфидэль</organization>
-            <name>Тулина Мария</name><url> elfidel.com</url><email>mariya.tulina@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_2.jpg</photo></sales-agent>
-        <price>
-            <value>1250000</value>
-           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type></rooms-type><floor>1</floor><floors-total>2</floors-total><image>https://2bishop.ru/pictures/53003/53003_E1MmmzBMbpFI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_bGDkvn3gRKwo.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RJfrTIyVCUvS.jpg</image><image>https://2bishop.ru/pictures/53003/53003_pmVVSwmxzwWr.jpg</image><image>https://2bishop.ru/pictures/53003/53003_e6h3JkK5ARMB.jpg</image><image>https://2bishop.ru/pictures/53003/53003_tVnxAzVYbf4Y.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Qz3vUaTmqoV4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vFoHLnke28Li.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RYKxziqqEprx.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ugrmHe6JwfDV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lROWgGjugfbq.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NiyAj6Fw9s16.jpg</image><image>https://2bishop.ru/pictures/53003/53003_jP8hkgbnaAsp.jpg</image>
-         <quality>хорошее</quality>
-
-    	<phone>0</phone>
-        <internet>0</internet>
-        <parking>0</parking>
-        <rubbish-chute>0</rubbish-chute>
-        <lift>0</lift>
-    	 <video-review></video-review>
-     <description>Предлагается к продаже 2к.кв. в Историческом Центре на Торговой стороне ул. Знаменская 7/7. Просторная квартира площадью 59,2 кв.м За счёт достаточно высокого фундамента, нет ощущения первого этажа. Так же все полы укреплены ДСП панелями. Дом расположен в тихом частном секторе, рядом река Волхов. Есть ощущение загородной жизни, но при этом Вы находитесь в городе. Большая территория вокруг дома с высаженными деревьями,местом для парковки, детской площадкой, беседкой где можно жарить шашлыки и огородом для любителей. Площадь гостиной: 22,2 кв.м. Комната большая и квадратной формы, это позволит Вам с комфортом разместить мебель. Стены обшиты вагонкой, ламинат, натяжной потолок, стеклопакеты. Площадь второй комнаты: 14,7 кв.м. Обои, стеклопакеты, дсп. Площадь кухни: 7,5 кв.м. На полу линолеум, стены выполнены частично в плитке и обшиты панелями. В ПОДАРОК хозяева оставляют современный кухонный гарнитур и шкаф в прихожей. Просторный коридор площадью 13,8 кв.м. Автономное отопление + бойлер. Небольшие коммунальные платежи! Квартира без долгов и обременений все документы готовы к сделке. Звоните, покажу с удовольствием!</description>
-     <building-type>Деревянный</building-type>
-     <building-series>Старый фонд</building-series><area><value>59.20</value><unit>кв.м</unit></area><living-space><value>36.90</value><unit>кв.м</unit></living-space><kitchen-space><value>7.50</value><unit>кв.м</unit></kitchen-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='15300304192'>
+     <building-series>Общежитие</building-series><area><value>12.00</value><unit>кв.м</unit></area><living-space><value>12.00</value><unit>кв.м</unit></living-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='15300304192'>
         <type>продажа</type>
         <property-type>жилая</property-type>
         <category>квартира</category>
@@ -218,9 +179,7 @@
             <name>Тулина Мария</name><url> elfidel.com</url><email>mariya.tulina@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_2.jpg</photo></sales-agent>
         <price>
             <value>780000</value>
-           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>1</rooms><rooms-type></rooms-type><floor>3</floor><floors-total>3</floors-total><image>https://2bishop.ru/pictures/53003/53003_HYspcdkcfcwz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5usJgePmnQzQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_SdRbKABusFqa.jpg</image><image>https://2bishop.ru/pictures/53003/53003_E8jz5koV6PY2.jpg</image><image>https://2bishop.ru/pictures/53003/53003_x9clWGbwlq1A.jpg</image><image>https://2bishop.ru/pictures/53003/53003_knENHoBHN9rN.jpg</image><image>https://2bishop.ru/pictures/53003/53003_zFzPBTIs8pOY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kLu6AUptEJHI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_n3iLwmHXfbbE.jpg</image><image>https://2bishop.ru/pictures/53003/53003_F43YkuJ2j1qP.jpg</image><image>https://2bishop.ru/pictures/53003/53003_XPMQcEhyu8TB.jpg</image><image>https://2bishop.ru/pictures/53003/53003_7FLRM7ddEnxJ.jpg</image>
-         <quality>хорошее</quality>
-
+           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>1</rooms><rooms-type></rooms-type><floor>3</floor><floors-total>3</floors-total><image>https://2bishop.ru/pictures/53003/53003_HYspcdkcfcwz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5usJgePmnQzQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_SdRbKABusFqa.jpg</image><image>https://2bishop.ru/pictures/53003/53003_E8jz5koV6PY2.jpg</image><image>https://2bishop.ru/pictures/53003/53003_x9clWGbwlq1A.jpg</image><image>https://2bishop.ru/pictures/53003/53003_knENHoBHN9rN.jpg</image><image>https://2bishop.ru/pictures/53003/53003_zFzPBTIs8pOY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kLu6AUptEJHI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_n3iLwmHXfbbE.jpg</image><image>https://2bishop.ru/pictures/53003/53003_F43YkuJ2j1qP.jpg</image><image>https://2bishop.ru/pictures/53003/53003_XPMQcEhyu8TB.jpg</image><image>https://2bishop.ru/pictures/53003/53003_7FLRM7ddEnxJ.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -247,9 +206,7 @@
             <name>Луконин Владимир</name><url> elfidel.com</url><email>vladimir.lukonin@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_7.jpg</photo></sales-agent>
         <price>
             <value>3040000</value>
-           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type></rooms-type><floor>6</floor><floors-total>9</floors-total><image>https://2bishop.ru/pictures/53003/53003_5XwwcF4b8z6j.jpg</image><image>https://2bishop.ru/pictures/53003/53003_SOmjLRtLLI9t.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2OPhSGJdEc4n.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2OkFfr7FAQqN.jpg</image><image>https://2bishop.ru/pictures/53003/53003_y3tt4vezVr9W.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Gx39JOqyR3hg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_MVYGdcdZcN3W.jpg</image><image>https://2bishop.ru/pictures/53003/53003_rUMRJH3wNcvv.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NJBjEJVVnyM5.jpg</image><image>https://2bishop.ru/pictures/53003/53003_el7iTgThTMfH.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DE91NqazZ2jK.jpg</image><image>https://2bishop.ru/pictures/53003/53003_EjDbeNXT4OLP.jpg</image>
-         <quality>хорошее</quality>
-
+           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type></rooms-type><floor>6</floor><floors-total>9</floors-total><image>https://2bishop.ru/pictures/53003/53003_5XwwcF4b8z6j.jpg</image><image>https://2bishop.ru/pictures/53003/53003_SOmjLRtLLI9t.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2OPhSGJdEc4n.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2OkFfr7FAQqN.jpg</image><image>https://2bishop.ru/pictures/53003/53003_y3tt4vezVr9W.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Gx39JOqyR3hg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_MVYGdcdZcN3W.jpg</image><image>https://2bishop.ru/pictures/53003/53003_rUMRJH3wNcvv.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NJBjEJVVnyM5.jpg</image><image>https://2bishop.ru/pictures/53003/53003_el7iTgThTMfH.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DE91NqazZ2jK.jpg</image><image>https://2bishop.ru/pictures/53003/53003_EjDbeNXT4OLP.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -258,36 +215,7 @@
     	 <video-review></video-review>
      <description>Продается просторная 2 комнатная квартира с отделкой в кирпичном доме. Основные преимущества: - Дом 2012 г постройки - Чистый, ухоженный подъезд без посторонних запахов - Огромный застекленный балкон площадью 9,9м общая площадь указана без учета балкона с выходом из 2 комнат. - Кладовая - Раздельный санузел - Окна на 2 стороны не со стороны дороги - Продуманная планировка грязная зона прихожей отделена от коридора - Хорошая транспортная доступность - рядом несколько автобусных остановок. - Большая парковка, благоустроенный двор. - Вокруг дома есть множество магазинов верный, магнит, осень, пятерочка, парикмахерские, аптека, кафе Шарлотка ателье и прочее - В шаговой доступности школа, детская поликлиника, детский сад, физкультурно-оздоровительный комплекс Акрон с бассейном и прогулочным парком. - Отлично подойдет как для семьи так и для аренды в том числе посуточной тк часто приезжают спортсмены в ФОК Акрон. - Без долгов и обременений. - Возможны любые формы расчета. - Возможен ОБМЕН на 1комнатную кв. в районе Белого города. - Звоните, покажем в удобное для Вас время. Поможем с реализацией вашей недвижимости, с оформлением ипотеки. АН Эльфидэль Луконин Владимир</description>
      <building-type>Кирпичный</building-type>
-     <building-series>Улучшенной пл.</building-series><area><value>60.60</value><unit>кв.м</unit></area><living-space><value>33.30</value><unit>кв.м</unit></living-space><kitchen-space><value>11.70</value><unit>кв.м</unit></kitchen-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='15300304212'>
-        <type>продажа</type>
-        <property-type>жилая</property-type>
-        <category>квартира</category>
-        <url>https://2bishop.ru/aparts/4212_53003/</url><creation-date>2020-03-30T03:00:00+03:00</creation-date><last-update-date>2020-10-10T17:13:59+03:00</last-update-date>
-        <manually-added>1</manually-added>
-        <location>
-            <country>Россия</country><region>Новгородская область</region>
-	          <locality-name>Великий Новгород</locality-name>
-	          <sub-locality-name></sub-locality-name><address>Германа улица, дом 1</address><latitude>58.52640499999139</latitude><longitude>31.26034800000002</longitude> </location>
-
-
-        <sales-agent><phone>+79633345368</phone>
-         <category>агентство</category>
-            <organization>АН Эльфидэль</organization>
-            <name>Тулина Мария</name><url> elfidel.com</url><email>mariya.tulina@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_2.jpg</photo></sales-agent>
-        <price>
-            <value>2000000</value>
-           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type></rooms-type><floor>1</floor><floors-total>4</floors-total><image>https://2bishop.ru/pictures/53003/53003_lpNzHjmIdZwC.jpg</image><image>https://2bishop.ru/pictures/53003/53003_bHWNGVuB9b5V.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LNUN8hnFZMgV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_aysZa6rk1rpL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_hncBxqzBUGXn.jpg</image><image>https://2bishop.ru/pictures/53003/53003_KQykjOtsTMZK.jpg</image><image>https://2bishop.ru/pictures/53003/53003_BdsE5nDhZlpM.jpg</image><image>https://2bishop.ru/pictures/53003/53003_U9vgr9HJKekZ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2j3QkygQNQ6n.jpg</image><image>https://2bishop.ru/pictures/53003/53003_a7fydp9tw11C.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yxEtqJfD81of.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yRoT3ZvRET6T.jpg</image><image>https://2bishop.ru/pictures/53003/53003_1d7btps7stdz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_4J2DklpiXckQ.jpg</image>
-         <quality>хорошее</quality>
-
-    	<phone>0</phone>
-        <internet>0</internet>
-        <parking>0</parking>
-        <rubbish-chute>0</rubbish-chute>
-        <lift>0</lift>
-    	 <video-review></video-review>
-     <description>Предлагается к продаже 3к.кв. в Центре города по весьма привлекательной и низкой цене! Ул. Германа 1 Кирпичный дом. Общая площадь: 54,2 кв.м. Квартира в обычном состоянии. Стены покрашены, что упрощает подготовку к ремонту, полы деревянные, окна обычные. Просторная гостиная 20,6 кв.м позволит вам с комфортом разместить мебель. Площади комнат 11,3 и 10,1 кв.м. С/у совмещённый. Имеется новый унитаз. Площадь кухни: 5,7 кв.м. Удачное расположение дома в сочетании с развитой инфраструктурой! Всё необходимое для комфортной жизни в шаговой доступности. В соседнем дворе Детский сад, рядом школа, магазины Пятерочка, Дикси, Верный, аптеки и др. Институт экономики, вокзал, кафе, кино. Недалёко большой центральный парк и Новгородский Кремль - сердце города, где можно гулять и наслаждаться свежим воздухом. Квартира без долгов и обременений все документы готовы!Звоните, покажу с удовольствием!</description>
-     <building-type>Кирпичный</building-type>
-     <building-series>Хрущёвка</building-series><area><value>54.20</value><unit>кв.м</unit></area><living-space><value>42.00</value><unit>кв.м</unit></living-space><kitchen-space><value>5.70</value><unit>кв.м</unit></kitchen-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='15300304217'>
+     <building-series>Улучшенной пл.</building-series><area><value>60.60</value><unit>кв.м</unit></area><living-space><value>33.30</value><unit>кв.м</unit></living-space><kitchen-space><value>11.70</value><unit>кв.м</unit></kitchen-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='15300304217'>
         <type>продажа</type>
         <property-type>жилая</property-type>
         <category>квартира</category>
@@ -306,9 +234,7 @@
         <price>
             <value>800000</value>
            <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>1</rooms><rooms-type>смежная</rooms-type>
-	<bathroom-unit>совмещенный</bathroom-unit><floor>5</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_L1JZSlnoSeDq.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ltm9BhVyXIWw.jpg</image><image>https://2bishop.ru/pictures/53003/53003_cDM53TuVi79i.jpg</image><image>https://2bishop.ru/pictures/53003/53003_AGjagv7A7zn.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vUfEh9wWOMDm.jpg</image><image>https://2bishop.ru/pictures/53003/53003_l2cqzBxLNLrk.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uLNZxmdMgo4C.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kCiSCfJ7JRhh.jpg</image><image>https://2bishop.ru/pictures/53003/53003_MnbIq7vtMGFF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_z3sq8LQE84OQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6vkPucnBPan1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Kl8eJx8wExHY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_9hfc5ZfGp4XO.jpg</image><image>https://2bishop.ru/pictures/53003/53003_At4SXZF7uL2Q.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yRqhghQo6qGu.jpg</image><image>https://2bishop.ru/pictures/53003/53003_4qAr2Wp6qFSO.jpg</image>
-         <quality>хорошее</quality>
-
+	<bathroom-unit>совмещенный</bathroom-unit><floor>5</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_L1JZSlnoSeDq.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ltm9BhVyXIWw.jpg</image><image>https://2bishop.ru/pictures/53003/53003_cDM53TuVi79i.jpg</image><image>https://2bishop.ru/pictures/53003/53003_AGjagv7A7zn.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vUfEh9wWOMDm.jpg</image><image>https://2bishop.ru/pictures/53003/53003_l2cqzBxLNLrk.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uLNZxmdMgo4C.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kCiSCfJ7JRhh.jpg</image><image>https://2bishop.ru/pictures/53003/53003_MnbIq7vtMGFF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_z3sq8LQE84OQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6vkPucnBPan1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Kl8eJx8wExHY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_9hfc5ZfGp4XO.jpg</image><image>https://2bishop.ru/pictures/53003/53003_At4SXZF7uL2Q.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yRqhghQo6qGu.jpg</image><image>https://2bishop.ru/pictures/53003/53003_4qAr2Wp6qFSO.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -335,9 +261,7 @@
             <name>Тулина Мария</name><url> elfidel.com</url><email>mariya.tulina@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_2.jpg</photo></sales-agent>
         <price>
             <value>1700000</value>
-           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type></rooms-type><floor>1</floor><floors-total>2</floors-total><image>https://2bishop.ru/pictures/53003/53003_F5JyBsF8lEL7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_rcOCnAj6UC7q.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IpMIMPkxdW61.jpg</image><image>https://2bishop.ru/pictures/53003/53003_G9rt2kXS5rjI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_JGTx9gakk7XT.jpg</image><image>https://2bishop.ru/pictures/53003/53003_JzBhvAIDwK9w.jpg</image><image>https://2bishop.ru/pictures/53003/53003_WqXbBhoFY7LR.jpg</image><image>https://2bishop.ru/pictures/53003/53003_amX8AGurrBLo.jpg</image><image>https://2bishop.ru/pictures/53003/53003_WUCgm66tZ6YR.jpg</image><image>https://2bishop.ru/pictures/53003/53003_tIjgxgreFhw8.jpg</image>
-         <quality>хорошее</quality>
-
+           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type></rooms-type><floor>1</floor><floors-total>2</floors-total><image>https://2bishop.ru/pictures/53003/53003_F5JyBsF8lEL7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_rcOCnAj6UC7q.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IpMIMPkxdW61.jpg</image><image>https://2bishop.ru/pictures/53003/53003_G9rt2kXS5rjI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_JGTx9gakk7XT.jpg</image><image>https://2bishop.ru/pictures/53003/53003_JzBhvAIDwK9w.jpg</image><image>https://2bishop.ru/pictures/53003/53003_WqXbBhoFY7LR.jpg</image><image>https://2bishop.ru/pictures/53003/53003_amX8AGurrBLo.jpg</image><image>https://2bishop.ru/pictures/53003/53003_WUCgm66tZ6YR.jpg</image><image>https://2bishop.ru/pictures/53003/53003_tIjgxgreFhw8.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -364,9 +288,7 @@
             <name>Кириллова Светлана</name><url> elfidel.com</url><email>svetlana.kirillova@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_6.jpg</photo></sales-agent>
         <price>
             <value>1900000</value>
-           <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type></rooms-type><window-view>во двор</window-view><balcony>балкон</balcony><floor>2</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_O8Ehi1plgNOL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lv9mCUYkue1K.jpg</image><image>https://2bishop.ru/pictures/53003/53003_1kw2itcHL2WF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lyOthtM8JWWI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uZDAXTa5tEgY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_VDvxZyKn3S.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ecOzZgl2jZRL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_y6JeTMSI6dq9.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ugyGim8WbFPg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_WvN2y8mA75Q8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_pubNseWgzc6B.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2GCohJFHK9fh.jpg</image>
-         <quality>хорошее</quality>
-
+           <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type></rooms-type><window-view>во двор</window-view><balcony>балкон</balcony><floor>2</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_O8Ehi1plgNOL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lv9mCUYkue1K.jpg</image><image>https://2bishop.ru/pictures/53003/53003_1kw2itcHL2WF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lyOthtM8JWWI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uZDAXTa5tEgY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_VDvxZyKn3S.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ecOzZgl2jZRL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_y6JeTMSI6dq9.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ugyGim8WbFPg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_WvN2y8mA75Q8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_pubNseWgzc6B.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2GCohJFHK9fh.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -393,9 +315,7 @@
             <name>Щапкова Ольга</name><url> elfidel.com</url><email>olga.shapkova@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_11.jpg</photo></sales-agent>
         <price>
             <value>750000</value>
-           <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>6</rooms><rooms-offered>1</rooms-offered><rooms-type></rooms-type><balcony>балкон</balcony><floor>4</floor><floors-total>4</floors-total><image>https://2bishop.ru/pictures/53003/53003_7185qMXS8yU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_tddhyyJilPkw.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kTCVpqQ24TaS.jpg</image><image>https://2bishop.ru/pictures/53003/53003_9HcWxdyEU6Y4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_h7HbrGwFZ481.jpg</image><image>https://2bishop.ru/pictures/53003/53003_1r5xTjVCU3PL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_XJQNdETGOhsu.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6kpyCPPvxjZ1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RMdYWbFkRBnN.jpg</image><image>https://2bishop.ru/pictures/53003/53003_KehD5kNIbMKl.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vM9b24Oaht8T.jpg</image>
-         <quality>нужен косметический ремонт</quality>
-
+           <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>6</rooms><rooms-offered>1</rooms-offered><rooms-type></rooms-type><balcony>балкон</balcony><floor>4</floor><floors-total>4</floors-total><image>https://2bishop.ru/pictures/53003/53003_7185qMXS8yU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_tddhyyJilPkw.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kTCVpqQ24TaS.jpg</image><image>https://2bishop.ru/pictures/53003/53003_9HcWxdyEU6Y4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_h7HbrGwFZ481.jpg</image><image>https://2bishop.ru/pictures/53003/53003_1r5xTjVCU3PL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_XJQNdETGOhsu.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6kpyCPPvxjZ1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RMdYWbFkRBnN.jpg</image><image>https://2bishop.ru/pictures/53003/53003_KehD5kNIbMKl.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vM9b24Oaht8T.jpg</image><renovation>требует ремонта</renovation>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -422,9 +342,7 @@
             <name>Матвеева Елена</name><url> elfidel.com</url><email>elena.matveeva@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_8.jpg</photo></sales-agent>
         <price>
             <value>1750000</value>
-           <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type>смежная</rooms-type><window-view>во двор</window-view><floor>1</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_SsEqd4yRjCm.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yVygDQlnJiel.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uoaqehOYfug7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_CG28GfwAFi8w.jpg</image><image>https://2bishop.ru/pictures/53003/53003_q4Qxe2kydMHF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_MeM1Nnuk1DZj.jpg</image><image>https://2bishop.ru/pictures/53003/53003_xVvjJniDplFe.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DcmWDNdoa4je.jpg</image>
-         <quality>нужен косметический ремонт</quality>
-
+           <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type>смежная</rooms-type><window-view>во двор</window-view><floor>1</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_SsEqd4yRjCm.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yVygDQlnJiel.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uoaqehOYfug7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_CG28GfwAFi8w.jpg</image><image>https://2bishop.ru/pictures/53003/53003_q4Qxe2kydMHF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_MeM1Nnuk1DZj.jpg</image><image>https://2bishop.ru/pictures/53003/53003_xVvjJniDplFe.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DcmWDNdoa4je.jpg</image><renovation>требует ремонта</renovation>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -433,36 +351,7 @@
     	 <video-review></video-review>
      <description>Предлагается к продаже 3 к.кв на ул. Октябрьская, д.12 к.4. Отличное расположение дома, в сочетании с развитой инфраструктурой. В шаговой доступности магазин Пятерочка, Полимедика, аптеки, детский сад 73 "Ладушки". До автовокзала 5 минут, до Кремля пешком 15 минут. Окна выходят во двор, из окон видна школа  21, очень удобно для семьи, у кого есть школьники. Есть место для парковки. Вся квартира в обычном состоянии. Общая площадь 49,4 м.кв. Комнаты смежные, зал 17,9 м.кв, две другие комнаты - 10,4 и 7,4 м.кв. Квартира на первом этаже, есть сухое подвальное помещение - вход прямо из квартиры. Собственники оставляют диван, стенку, стиральную машинку. Документы в порядке. Квартира ждёт своего покупателя! Прекрасно подойдёт для любой семьи! Звоните, покажу с радостью!</description>
      <building-type>Панельный</building-type>
-     <building-series>Хрущёвка</building-series><area><value>49.40</value><unit>кв.м</unit></area><living-space><value>35.70</value><unit>кв.м</unit></living-space><kitchen-space><value>5.90</value><unit>кв.м</unit></kitchen-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='15300304244'>
-        <type>продажа</type>
-        <property-type>жилая</property-type>
-        <category>квартира</category>
-        <url>https://2bishop.ru/aparts/4244_53003/</url><creation-date>2020-06-12T17:05:10+03:00</creation-date><last-update-date>2020-11-20T16:56:43+03:00</last-update-date>
-        <manually-added>1</manually-added>
-        <location>
-            <country>Россия</country><region>Новгородская область</region>
-	          <locality-name>Великий Новгород</locality-name>
-	          <sub-locality-name></sub-locality-name><address>Мира проспект, дом 13к2</address><latitude>58.53588099999139</latitude><longitude>31.235284999999998</longitude> </location>
-
-
-        <sales-agent><phone>+79633345368</phone>
-         <category>агентство</category>
-            <organization>АН Эльфидэль</organization>
-            <name>Тулина Мария</name><url> elfidel.com</url><email>mariya.tulina@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_2.jpg</photo></sales-agent>
-        <price>
-            <value>2000000</value>
-           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type></rooms-type><floor>4</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_oivSoa74tnV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sDMFOZRCVi5Q.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ZhtJQopLWAOp.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DCXhZcQaZ4qe.jpg</image><image>https://2bishop.ru/pictures/53003/53003_OohQFO7w3cfq.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uHh1k2sJK4Sx.jpg</image><image>https://2bishop.ru/pictures/53003/53003_jCvVufvRkZ3N.jpg</image><image>https://2bishop.ru/pictures/53003/53003_8y8wt6RDPCPO.jpg</image><image>https://2bishop.ru/pictures/53003/53003_k9bg1ZO6mN3M.jpg</image><image>https://2bishop.ru/pictures/53003/53003_oclylbOce9y7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_v7xpO24xzbUm.jpg</image><image>https://2bishop.ru/pictures/53003/53003_PZWFeXymVcP.jpg</image><image>https://2bishop.ru/pictures/53003/53003_iVNnBNo1huxc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_GcZMgn7a43YO.jpg</image>
-         <quality>хорошее</quality>
-
-    	<phone>0</phone>
-        <internet>0</internet>
-        <parking>0</parking>
-        <rubbish-chute>0</rubbish-chute>
-        <lift>0</lift>
-    	 <video-review></video-review>
-     <description>Предлагается к продаже современная 2к.кв. в Западном районе. пр. Мира 13к2 Общая площадь: 43,2 кв.м. 4 этаж. Комнаты изолированные! Окна выходят на тихий двор. Во всей квартире установлены стеклопакеты. Площадь кухни-гостиной: 23 кв.м. На полу качественный ламинат, стены выровнены и покрашены в приятный светлый цвет, потолок гипсокартон. В кухонной зоне выполнен фартук из кафельной плитки. Вся электрическая проводка в квартире заменена на новую. Имеется ниша под холодильник. Закуплены новые батареи, газовая плита и колонка автомат. Из комнаты Вы попадаете на застекленный балкон. Площадь 2 комнаты: 10,5 кв.м. В комнате поклеены обои, на полу линолеум. Так же для этой комнаты закуплен ламинат и 2 межкомнатные двери в с/у и комнату. С/у совмещённый, увеличенной площади 5 кв.м. Стены и пол в современной кафельной плитке. Трубы и стояк заменены. Куплен новый унитаз. Большой коридор, новая входная дверь. Установлен тёплый пол, кафельная плитка под имитацию дерева, стены выровнены. Отличное расположение дома, развитая инфраструктура! Всё необходимое для комфортной жизни в шаговой доступности: детские сад прямо во дворе, Гимназия Гармония, 3 гимназия остановки, продуктовые магазины, Квартира без долгов и обременений. Один взрослый собственник. Звоните, покажу с удовольствием!</description>
-     <building-type>Панельный</building-type>
-     <building-series>Хрущёвка</building-series><area><value>43.20</value><unit>кв.м</unit></area><living-space><value>26.40</value><unit>кв.м</unit></living-space><kitchen-space><value>6.00</value><unit>кв.м</unit></kitchen-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='15300304246'>
+     <building-series>Хрущёвка</building-series><area><value>49.40</value><unit>кв.м</unit></area><living-space><value>35.70</value><unit>кв.м</unit></living-space><kitchen-space><value>5.90</value><unit>кв.м</unit></kitchen-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='15300304246'>
         <type>продажа</type>
         <property-type>жилая</property-type>
         <category>квартира</category>
@@ -481,9 +370,7 @@
         <price>
             <value>1950000</value>
            <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>1</rooms><rooms-type>изолированная</rooms-type><balcony>балкон</balcony>
-	<bathroom-unit>совмещенный</bathroom-unit><floor>9</floor><floors-total>16</floors-total><image>https://2bishop.ru/pictures/53003/53003_i4udMPwTC8R5.jpg</image><image>https://2bishop.ru/pictures/53003/53003_fSwzCm9mXRjl.jpg</image><image>https://2bishop.ru/pictures/53003/53003_4FtdVEy7xPyY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_aZuzq4wgMAUq.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RtkCea3uFkUL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_eGoUUC5UgEIl.jpg</image><image>https://2bishop.ru/pictures/53003/53003_7yxMr4zxI6o8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_XGCjVDafE2sr.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Vai7SNVaF3jh.jpg</image><image>https://2bishop.ru/pictures/53003/53003_YngJvv5ZEB7Q.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kA6cpDrTyv5m.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vSBGvKjpHkrj.jpg</image><image>https://2bishop.ru/pictures/53003/53003_4kZMWCLuNZvw.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sEUXQdCSoW8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_JlMZhSNiZ5M4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nBewiDZPE1QF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wpZzEwHSc6QX.jpg</image><image>https://2bishop.ru/pictures/53003/53003_XVd7nnKhif7W.jpg</image>
-         <quality>отличное</quality>
-
+	<bathroom-unit>совмещенный</bathroom-unit><floor>9</floor><floors-total>16</floors-total><image>https://2bishop.ru/pictures/53003/53003_i4udMPwTC8R5.jpg</image><image>https://2bishop.ru/pictures/53003/53003_fSwzCm9mXRjl.jpg</image><image>https://2bishop.ru/pictures/53003/53003_4FtdVEy7xPyY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_aZuzq4wgMAUq.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RtkCea3uFkUL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_eGoUUC5UgEIl.jpg</image><image>https://2bishop.ru/pictures/53003/53003_7yxMr4zxI6o8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_XGCjVDafE2sr.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Vai7SNVaF3jh.jpg</image><image>https://2bishop.ru/pictures/53003/53003_YngJvv5ZEB7Q.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kA6cpDrTyv5m.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vSBGvKjpHkrj.jpg</image><image>https://2bishop.ru/pictures/53003/53003_4kZMWCLuNZvw.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sEUXQdCSoW8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_JlMZhSNiZ5M4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nBewiDZPE1QF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wpZzEwHSc6QX.jpg</image><image>https://2bishop.ru/pictures/53003/53003_XVd7nnKhif7W.jpg</image><quality>отличное</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -510,9 +397,7 @@
             <name>Тулина Мария</name><url> elfidel.com</url><email>mariya.tulina@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_2.jpg</photo></sales-agent>
         <price>
             <value>4400000</value>
-           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type></rooms-type><floor>5</floor><floors-total>6</floors-total><image>https://2bishop.ru/pictures/53003/53003_uA6DokMSkRVb.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ST2zOQydyqcv.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Rk4Kw7Eyzqyl.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LNLaLgjlyrck.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Xrrj4z2bQp1L.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kvwWzneuRdBr.jpg</image><image>https://2bishop.ru/pictures/53003/53003_CRQAxgd5U9rw.jpg</image><image>https://2bishop.ru/pictures/53003/53003_42eOhQ2kXVCp.jpg</image><image>https://2bishop.ru/pictures/53003/53003_r7wow3zcxUMd.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6vVLJWTxkCH.jpg</image><image>https://2bishop.ru/pictures/53003/53003_WVon5NUZpqWV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_VA9qRTNFV6ob.jpg</image><image>https://2bishop.ru/pictures/53003/53003_69JbhHOf4ZyQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_A6ngPE2Jzhtj.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vWbjtNEKGK8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_X9xWqhY7juFu.jpg</image><image>https://2bishop.ru/pictures/53003/53003_8l7NCGhPGreK.jpg</image><image>https://2bishop.ru/pictures/53003/53003_cAQtrTCKS3CB.jpg</image><image>https://2bishop.ru/pictures/53003/53003_y5XLNTTT8NTX.jpg</image><image>https://2bishop.ru/pictures/53003/53003_J7ygPsLmxTtx.jpg</image>
-         <quality>хорошее</quality>
-
+           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type></rooms-type><floor>5</floor><floors-total>6</floors-total><image>https://2bishop.ru/pictures/53003/53003_uA6DokMSkRVb.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ST2zOQydyqcv.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Rk4Kw7Eyzqyl.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LNLaLgjlyrck.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Xrrj4z2bQp1L.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kvwWzneuRdBr.jpg</image><image>https://2bishop.ru/pictures/53003/53003_CRQAxgd5U9rw.jpg</image><image>https://2bishop.ru/pictures/53003/53003_42eOhQ2kXVCp.jpg</image><image>https://2bishop.ru/pictures/53003/53003_r7wow3zcxUMd.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6vVLJWTxkCH.jpg</image><image>https://2bishop.ru/pictures/53003/53003_WVon5NUZpqWV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_VA9qRTNFV6ob.jpg</image><image>https://2bishop.ru/pictures/53003/53003_69JbhHOf4ZyQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_A6ngPE2Jzhtj.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vWbjtNEKGK8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_X9xWqhY7juFu.jpg</image><image>https://2bishop.ru/pictures/53003/53003_8l7NCGhPGreK.jpg</image><image>https://2bishop.ru/pictures/53003/53003_cAQtrTCKS3CB.jpg</image><image>https://2bishop.ru/pictures/53003/53003_y5XLNTTT8NTX.jpg</image><image>https://2bishop.ru/pictures/53003/53003_J7ygPsLmxTtx.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -539,9 +424,7 @@
             <name>Матвеева Елена</name><url> elfidel.com</url><email>elena.matveeva@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_8.jpg</photo></sales-agent>
         <price>
             <value>12000</value>
-           <currency>RUR</currency><period>месяц</period></price><mortgage>0</mortgage><agent-fee>50</agent-fee><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type></rooms-type><balcony>балкон</balcony><floor>3</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_PI7NXAnaarGs.jpg</image><image>https://2bishop.ru/pictures/53003/53003_xIA7IHVqdGiL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vtD8bkhgn3W.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Hq8l1dekgShi.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DtNPYJ3hXc3o.jpg</image><image>https://2bishop.ru/pictures/53003/53003_als5kqxHZKW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LRAbR8XBoiyL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5LGxUyxpnBbi.jpg</image>
-         <quality>хорошее</quality>
-
+           <currency>RUR</currency><period>месяц</period></price><mortgage>0</mortgage><agent-fee>50</agent-fee><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type></rooms-type><balcony>балкон</balcony><floor>3</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_PI7NXAnaarGs.jpg</image><image>https://2bishop.ru/pictures/53003/53003_xIA7IHVqdGiL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vtD8bkhgn3W.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Hq8l1dekgShi.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DtNPYJ3hXc3o.jpg</image><image>https://2bishop.ru/pictures/53003/53003_als5kqxHZKW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LRAbR8XBoiyL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5LGxUyxpnBbi.jpg</image><quality>хорошее</quality>
         <internet>0</internet>
         <room-furniture>1</room-furniture>
         <kitchen-furniture>0</kitchen-furniture>
@@ -570,9 +453,7 @@
         <price>
             <value>2000000</value>
            <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>4</rooms><rooms-type>смежно-изолированная</rooms-type><balcony>балкон</balcony>
-	<bathroom-unit>раздельный</bathroom-unit><floor>5</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_mq5F6YJjVCeG.jpg</image><image>https://2bishop.ru/pictures/53003/53003_59e42nWZfG7C.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ktLA9SlrF1EC.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lx1Kemw2DzB.jpg</image><image>https://2bishop.ru/pictures/53003/53003_hiN8g5KAeAiV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_dAvVnrSrR8A2.jpg</image><image>https://2bishop.ru/pictures/53003/53003_COa2R9UkQr.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vgd66roeXRf9.jpg</image><image>https://2bishop.ru/pictures/53003/53003_N7P7oBlYuLvG.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mROJqbGKptpe.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DOdq1BF9a16B.jpg</image>
-         <quality>нужен косметический ремонт</quality>
-
+	<bathroom-unit>раздельный</bathroom-unit><floor>5</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_mq5F6YJjVCeG.jpg</image><image>https://2bishop.ru/pictures/53003/53003_59e42nWZfG7C.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ktLA9SlrF1EC.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lx1Kemw2DzB.jpg</image><image>https://2bishop.ru/pictures/53003/53003_hiN8g5KAeAiV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_dAvVnrSrR8A2.jpg</image><image>https://2bishop.ru/pictures/53003/53003_COa2R9UkQr.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vgd66roeXRf9.jpg</image><image>https://2bishop.ru/pictures/53003/53003_N7P7oBlYuLvG.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mROJqbGKptpe.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DOdq1BF9a16B.jpg</image><renovation>требует ремонта</renovation>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -599,9 +480,7 @@
             <name>Матвеева Елена</name><url> elfidel.com</url><email>elena.matveeva@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_8.jpg</photo></sales-agent>
         <price>
             <value>470000</value>
-           <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>4</rooms><rooms-offered>1</rooms-offered><rooms-type></rooms-type><floor>3</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_EBWONFVlxKVU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_axeM5zWyrvsM.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Mo1bVTj1oci3.jpg</image><image>https://2bishop.ru/pictures/53003/53003_l7ZkHj6pbVP2.jpg</image><image>https://2bishop.ru/pictures/53003/53003_CddmkVDK1bVy.jpg</image><image>https://2bishop.ru/pictures/53003/53003_iTL3rdUmTaNP.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5frESQMH8lcp.jpg</image><image>https://2bishop.ru/pictures/53003/53003_qrqL4Gnx7AV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NzJQL4cYlgkp.jpg</image><image>https://2bishop.ru/pictures/53003/53003_BvqANYc7K8C1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_t2yuWEREkm3u.jpg</image><image>https://2bishop.ru/pictures/53003/53003_21RnEqQfg5Sk.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RKkvwWvFJLwk.jpg</image>
-         <quality>хорошее</quality>
-
+           <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>4</rooms><rooms-offered>1</rooms-offered><rooms-type></rooms-type><floor>3</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_EBWONFVlxKVU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_axeM5zWyrvsM.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Mo1bVTj1oci3.jpg</image><image>https://2bishop.ru/pictures/53003/53003_l7ZkHj6pbVP2.jpg</image><image>https://2bishop.ru/pictures/53003/53003_CddmkVDK1bVy.jpg</image><image>https://2bishop.ru/pictures/53003/53003_iTL3rdUmTaNP.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5frESQMH8lcp.jpg</image><image>https://2bishop.ru/pictures/53003/53003_qrqL4Gnx7AV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NzJQL4cYlgkp.jpg</image><image>https://2bishop.ru/pictures/53003/53003_BvqANYc7K8C1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_t2yuWEREkm3u.jpg</image><image>https://2bishop.ru/pictures/53003/53003_21RnEqQfg5Sk.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RKkvwWvFJLwk.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -628,9 +507,7 @@
             <name>Тулина Мария</name><url> elfidel.com</url><email>mariya.tulina@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_2.jpg</photo></sales-agent>
         <price>
             <value>7700000</value>
-           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type></rooms-type><window-view>на улицу</window-view><window-view>во двор</window-view><balcony>2 лоджии</balcony><floor>1</floor><floors-total>6</floors-total><image>https://2bishop.ru/pictures/53003/53003_jcsL7OXteIlW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_m6kxRaZMxh8K.jpg</image><image>https://2bishop.ru/pictures/53003/53003_PyFWXUOxxbz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mnbh1JUrNF7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6dteLSp6yTdJ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wPRZWB15JKG4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_jsXDhdukvNNM.jpg</image><image>https://2bishop.ru/pictures/53003/53003_xK9pCJV6JFfd.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uoQZRsxBYJnk.jpg</image><image>https://2bishop.ru/pictures/53003/53003_SmbtpcMXGXY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2a9Kk6VTcVCd.jpg</image><image>https://2bishop.ru/pictures/53003/53003_f9kuVoOt3paI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_8V6ehod2mRLa.jpg</image><image>https://2bishop.ru/pictures/53003/53003_rvqrY1wi9t7r.jpg</image><image>https://2bishop.ru/pictures/53003/53003_zG9quB9qm7qi.jpg</image><image>https://2bishop.ru/pictures/53003/53003_SlZRwAzfJu2.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DzMDhdJjHAAb.jpg</image><image>https://2bishop.ru/pictures/53003/53003_a1b8Kzy8we2Z.jpg</image>
-         <quality>евроремонт</quality>
-
+           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type></rooms-type><window-view>на улицу</window-view><window-view>во двор</window-view><balcony>2 лоджии</balcony><floor>1</floor><floors-total>6</floors-total><image>https://2bishop.ru/pictures/53003/53003_jcsL7OXteIlW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_m6kxRaZMxh8K.jpg</image><image>https://2bishop.ru/pictures/53003/53003_PyFWXUOxxbz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mnbh1JUrNF7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6dteLSp6yTdJ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wPRZWB15JKG4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_jsXDhdukvNNM.jpg</image><image>https://2bishop.ru/pictures/53003/53003_xK9pCJV6JFfd.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uoQZRsxBYJnk.jpg</image><image>https://2bishop.ru/pictures/53003/53003_SmbtpcMXGXY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2a9Kk6VTcVCd.jpg</image><image>https://2bishop.ru/pictures/53003/53003_f9kuVoOt3paI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_8V6ehod2mRLa.jpg</image><image>https://2bishop.ru/pictures/53003/53003_rvqrY1wi9t7r.jpg</image><image>https://2bishop.ru/pictures/53003/53003_zG9quB9qm7qi.jpg</image><image>https://2bishop.ru/pictures/53003/53003_SlZRwAzfJu2.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DzMDhdJjHAAb.jpg</image><image>https://2bishop.ru/pictures/53003/53003_a1b8Kzy8we2Z.jpg</image><renovation>евроремонт</renovation>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -658,9 +535,7 @@
         <price>
             <value>2900000</value>
            <currency>RUR</currency></price><mortgage>1</mortgage><agent-fee>0.3448275862069</agent-fee><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type>смежно-изолированная</rooms-type><window-view>на улицу</window-view><window-view>во двор</window-view>
-	<bathroom-unit>раздельный</bathroom-unit><floor>1</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_T98LtLdnqJRW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_dvWQCxqUqv1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nSJiiWiiNqn8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_KRAEJR4tMbI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wivTwwi19im.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kNwwWn1qFz7T.jpg</image><image>https://2bishop.ru/pictures/53003/53003_iWTwgQBqVLE6.jpg</image><image>https://2bishop.ru/pictures/53003/53003_zl32dUtba18.jpg</image><image>https://2bishop.ru/pictures/53003/53003_zU21SsznZN9o.jpg</image><image>https://2bishop.ru/pictures/53003/53003_JiNm6TFSZaT5.jpg</image><image>https://2bishop.ru/pictures/53003/53003_b72goUKbFA7v.jpg</image><image>https://2bishop.ru/pictures/53003/53003_xk6Jl2GNq7xs.jpg</image><image>https://2bishop.ru/pictures/53003/53003_an7wGVHAtUo.jpg</image><image>https://2bishop.ru/pictures/53003/53003_gyKV5U1iW6O.jpg</image>
-         <quality>отличное</quality>
-
+	<bathroom-unit>раздельный</bathroom-unit><floor>1</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_T98LtLdnqJRW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_dvWQCxqUqv1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nSJiiWiiNqn8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_KRAEJR4tMbI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wivTwwi19im.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kNwwWn1qFz7T.jpg</image><image>https://2bishop.ru/pictures/53003/53003_iWTwgQBqVLE6.jpg</image><image>https://2bishop.ru/pictures/53003/53003_zl32dUtba18.jpg</image><image>https://2bishop.ru/pictures/53003/53003_zU21SsznZN9o.jpg</image><image>https://2bishop.ru/pictures/53003/53003_JiNm6TFSZaT5.jpg</image><image>https://2bishop.ru/pictures/53003/53003_b72goUKbFA7v.jpg</image><image>https://2bishop.ru/pictures/53003/53003_xk6Jl2GNq7xs.jpg</image><image>https://2bishop.ru/pictures/53003/53003_an7wGVHAtUo.jpg</image><image>https://2bishop.ru/pictures/53003/53003_gyKV5U1iW6O.jpg</image><quality>отличное</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -688,9 +563,7 @@
         <price>
             <value>1650000</value>
            <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>1</rooms><rooms-type>изолированная</rooms-type><window-view>на улицу</window-view><balcony>балкон</balcony>
-	<bathroom-unit>совмещенный</bathroom-unit><floor>3</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_jb8yRGyZcZU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2cTqEdTTXZAA.jpg</image><image>https://2bishop.ru/pictures/53003/53003_8Fv14ILaU3aC.jpg</image><image>https://2bishop.ru/pictures/53003/53003_BSbiBVQV5Z2g.jpg</image><image>https://2bishop.ru/pictures/53003/53003_BdfmSDUiGAak.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DPZoOeTI5wcc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kU1KAkeP33Gs.jpg</image><image>https://2bishop.ru/pictures/53003/53003_MI5WD1gmGvox.jpg</image><image>https://2bishop.ru/pictures/53003/53003_W5yNvzCiu3X.jpg</image>
-         <quality>косметический ремонт</quality>
-
+	<bathroom-unit>совмещенный</bathroom-unit><floor>3</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_jb8yRGyZcZU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2cTqEdTTXZAA.jpg</image><image>https://2bishop.ru/pictures/53003/53003_8Fv14ILaU3aC.jpg</image><image>https://2bishop.ru/pictures/53003/53003_BSbiBVQV5Z2g.jpg</image><image>https://2bishop.ru/pictures/53003/53003_BdfmSDUiGAak.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DPZoOeTI5wcc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kU1KAkeP33Gs.jpg</image><image>https://2bishop.ru/pictures/53003/53003_MI5WD1gmGvox.jpg</image><image>https://2bishop.ru/pictures/53003/53003_W5yNvzCiu3X.jpg</image><renovation>косметический</renovation>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -718,9 +591,7 @@
         <price>
             <value>1700000</value>
            <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type>изолированная</rooms-type><window-view>во двор</window-view><balcony>балкон</balcony>
-	<bathroom-unit>совмещенный</bathroom-unit><floor>4</floor><floors-total>4</floors-total><image>https://2bishop.ru/pictures/53003/53003_5hhBelCRYWhA.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IsjA23BrNLvd.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Lb58zkKwvV9.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lfWIRJZqqh2N.jpg</image><image>https://2bishop.ru/pictures/53003/53003_SHBY9srDT9iD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NGN6SYfrBMNm.jpg</image><image>https://2bishop.ru/pictures/53003/53003_w96amYsFBB7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_V691arKmuLTG.jpg</image><image>https://2bishop.ru/pictures/53003/53003_C2F56TDfgMzz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_S6BsbUYbjvDu.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nxVeQet9lM4T.jpg</image><image>https://2bishop.ru/pictures/53003/53003_8VRq9Ne8ZfUb.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RkTyDKu2cYj1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sjNLimSPaDD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ME7YdSGOyuaE.jpg</image><image>https://2bishop.ru/pictures/53003/53003_tKUWlJil6YsO.jpg</image>
-         <quality>хорошее</quality>
-
+	<bathroom-unit>совмещенный</bathroom-unit><floor>4</floor><floors-total>4</floors-total><image>https://2bishop.ru/pictures/53003/53003_5hhBelCRYWhA.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IsjA23BrNLvd.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Lb58zkKwvV9.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lfWIRJZqqh2N.jpg</image><image>https://2bishop.ru/pictures/53003/53003_SHBY9srDT9iD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NGN6SYfrBMNm.jpg</image><image>https://2bishop.ru/pictures/53003/53003_w96amYsFBB7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_V691arKmuLTG.jpg</image><image>https://2bishop.ru/pictures/53003/53003_C2F56TDfgMzz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_S6BsbUYbjvDu.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nxVeQet9lM4T.jpg</image><image>https://2bishop.ru/pictures/53003/53003_8VRq9Ne8ZfUb.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RkTyDKu2cYj1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sjNLimSPaDD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ME7YdSGOyuaE.jpg</image><image>https://2bishop.ru/pictures/53003/53003_tKUWlJil6YsO.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -748,9 +619,7 @@
         <price>
             <value>5199000</value>
            <currency>RUR</currency></price><mortgage>0</mortgage><agent-fee>1.9234468166955</agent-fee><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type>2-х уровневая</rooms-type><window-view>во двор</window-view><balcony>лоджия</balcony>
-	<bathroom-unit>совмещенный</bathroom-unit><floor>5</floor><floors-total>7</floors-total><image>https://2bishop.ru/pictures/53003/53003_XlzxJ7qfZDcr.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mbpiw6PCNtD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_1IcdwfSszZqh.jpg</image><image>https://2bishop.ru/pictures/53003/53003_EHvIIGJKFYRJ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_9agXtoCGuruv.jpg</image><image>https://2bishop.ru/pictures/53003/53003_O5G6nJRxC1iv.jpg</image><image>https://2bishop.ru/pictures/53003/53003_GRYMLiNGaCNx.jpg</image><image>https://2bishop.ru/pictures/53003/53003_UcqiPycQhgh2.jpg</image><image>https://2bishop.ru/pictures/53003/53003_HNmWwjgewt3k.jpg</image><image>https://2bishop.ru/pictures/53003/53003_QgMxvoWWaOi8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_zpU2r89o78i.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wRhFIbKyGxXa.jpg</image><image>https://2bishop.ru/pictures/53003/53003_szpNfL7Sezg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5avM8re9AZgG.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sHwdL94o7JM9.jpg</image><image>https://2bishop.ru/pictures/53003/53003_HGKloOxGHeUi.jpg</image><image>https://2bishop.ru/pictures/53003/53003_iihaGqL168y1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nXyAlDBpZ4bz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_pCQwLqvJcqt.jpg</image><image>https://2bishop.ru/pictures/53003/53003_C7QWnGS5q1zx.jpg</image>
-         <quality>хорошее</quality>
-
+	<bathroom-unit>совмещенный</bathroom-unit><floor>5</floor><floors-total>7</floors-total><image>https://2bishop.ru/pictures/53003/53003_XlzxJ7qfZDcr.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mbpiw6PCNtD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_1IcdwfSszZqh.jpg</image><image>https://2bishop.ru/pictures/53003/53003_EHvIIGJKFYRJ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_9agXtoCGuruv.jpg</image><image>https://2bishop.ru/pictures/53003/53003_O5G6nJRxC1iv.jpg</image><image>https://2bishop.ru/pictures/53003/53003_GRYMLiNGaCNx.jpg</image><image>https://2bishop.ru/pictures/53003/53003_UcqiPycQhgh2.jpg</image><image>https://2bishop.ru/pictures/53003/53003_HNmWwjgewt3k.jpg</image><image>https://2bishop.ru/pictures/53003/53003_QgMxvoWWaOi8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_zpU2r89o78i.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wRhFIbKyGxXa.jpg</image><image>https://2bishop.ru/pictures/53003/53003_szpNfL7Sezg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5avM8re9AZgG.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sHwdL94o7JM9.jpg</image><image>https://2bishop.ru/pictures/53003/53003_HGKloOxGHeUi.jpg</image><image>https://2bishop.ru/pictures/53003/53003_iihaGqL168y1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nXyAlDBpZ4bz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_pCQwLqvJcqt.jpg</image><image>https://2bishop.ru/pictures/53003/53003_C7QWnGS5q1zx.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>1</parking>
@@ -778,9 +647,7 @@
         <price>
             <value>4685000</value>
            <currency>RUR</currency></price><mortgage>0</mortgage><agent-fee>2</agent-fee><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type>изолированная</rooms-type><window-view>на улицу</window-view><window-view>во двор</window-view><balcony>2 лоджии</balcony>
-	<bathroom-unit>раздельный</bathroom-unit><floor>4</floor><floors-total>6</floors-total><image>https://2bishop.ru/pictures/53003/53003_M28jlNMZKHJF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LvZEmYSnNzv6.jpg</image><image>https://2bishop.ru/pictures/53003/53003_salCPrjzWmVZ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2QOtIbfT2zZk.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LyPDQTGgJNz3.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lba5k25TTOnF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_36gwWXkkqkgY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_HcUCuSdvsifg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sWFvVYiToVmK.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5ZGxeYB8i4w5.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IB7xfAE2ZB1z.jpg</image><image>https://2bishop.ru/pictures/53003/53003_rlfjCJqFqaXK.jpg</image><image>https://2bishop.ru/pictures/53003/53003_eLkGRNUZitU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yUcQp3lDfq6f.jpg</image><image>https://2bishop.ru/pictures/53003/53003_j9TjBDymc6PY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_TxpETZd1Ro9A.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2xGrvStegivy.jpg</image><image>https://2bishop.ru/pictures/53003/53003_y79Xl1UmY8kC.jpg</image><image>https://2bishop.ru/pictures/53003/53003_EVLV2wdbeb7A.jpg</image><image>https://2bishop.ru/pictures/53003/53003_tNAijc9fyBX.jpg</image>
-         <quality>евроремонт</quality>
-
+	<bathroom-unit>раздельный</bathroom-unit><floor>4</floor><floors-total>6</floors-total><image>https://2bishop.ru/pictures/53003/53003_M28jlNMZKHJF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LvZEmYSnNzv6.jpg</image><image>https://2bishop.ru/pictures/53003/53003_salCPrjzWmVZ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2QOtIbfT2zZk.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LyPDQTGgJNz3.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lba5k25TTOnF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_36gwWXkkqkgY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_HcUCuSdvsifg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sWFvVYiToVmK.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5ZGxeYB8i4w5.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IB7xfAE2ZB1z.jpg</image><image>https://2bishop.ru/pictures/53003/53003_rlfjCJqFqaXK.jpg</image><image>https://2bishop.ru/pictures/53003/53003_eLkGRNUZitU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yUcQp3lDfq6f.jpg</image><image>https://2bishop.ru/pictures/53003/53003_j9TjBDymc6PY.jpg</image><image>https://2bishop.ru/pictures/53003/53003_TxpETZd1Ro9A.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2xGrvStegivy.jpg</image><image>https://2bishop.ru/pictures/53003/53003_y79Xl1UmY8kC.jpg</image><image>https://2bishop.ru/pictures/53003/53003_EVLV2wdbeb7A.jpg</image><image>https://2bishop.ru/pictures/53003/53003_tNAijc9fyBX.jpg</image><renovation>евроремонт</renovation>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>1</parking>
@@ -793,7 +660,7 @@
         <type>продажа</type>
         <property-type>жилая</property-type>
         <category>квартира</category>
-        <url>https://2bishop.ru/aparts/4319_53003/</url><creation-date>2020-08-20T10:48:35+03:00</creation-date><last-update-date>2020-10-30T21:17:53+03:00</last-update-date>
+        <url>https://2bishop.ru/aparts/4319_53003/</url><creation-date>2020-08-20T10:48:35+03:00</creation-date><last-update-date>2020-11-25T18:13:25+03:00</last-update-date>
         <manually-added>1</manually-added>
         <location>
             <country>Россия</country><region>Новгородская область</region>
@@ -807,9 +674,7 @@
             <name>Матвеева Елена</name><url> elfidel.com</url><email>elena.matveeva@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_8.jpg</photo></sales-agent>
         <price>
             <value>1800000</value>
-           <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>1</rooms><rooms-type></rooms-type><window-view>во двор</window-view><balcony>лоджия</balcony><floor>9</floor><floors-total>9</floors-total><image>https://2bishop.ru/pictures/53003/53003_OwtfkkinuSH.jpg</image><image>https://2bishop.ru/pictures/53003/53003_MWxUf21AScVm.jpg</image><image>https://2bishop.ru/pictures/53003/53003_jFvBnEhxZNhL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ZYPrhSGpr41h.jpg</image><image>https://2bishop.ru/pictures/53003/53003_P8XhVdhiia4P.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uY3ChaoOU9GE.jpg</image><image>https://2bishop.ru/pictures/53003/53003_4sQiMPcH6E6W.jpg</image><image>https://2bishop.ru/pictures/53003/53003_rGrvk7QewVMr.jpg</image><image>https://2bishop.ru/pictures/53003/53003_1RePFLrRi5JQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2UmEcKRtocIN.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2JAv9mtcjYA.jpg</image><image>https://2bishop.ru/pictures/53003/53003_L19Z3FC6Hry5.jpg</image><image>https://2bishop.ru/pictures/53003/53003_hT8GsnTr99Ee.jpg</image><image>https://2bishop.ru/pictures/53003/53003_q6r6zspbVDPl.jpg</image><image>https://2bishop.ru/pictures/53003/53003_gDyAg4bapC6b.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mR8J4EsZWNGh.jpg</image><image>https://2bishop.ru/pictures/53003/53003_YCfAHOiriGcY.jpg</image>
-         <quality>хорошее</quality>
-
+           <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>1</rooms><rooms-type></rooms-type><window-view>во двор</window-view><balcony>лоджия</balcony><floor>9</floor><floors-total>9</floors-total><image>https://2bishop.ru/pictures/53003/53003_OwtfkkinuSH.jpg</image><image>https://2bishop.ru/pictures/53003/53003_MWxUf21AScVm.jpg</image><image>https://2bishop.ru/pictures/53003/53003_jFvBnEhxZNhL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ZYPrhSGpr41h.jpg</image><image>https://2bishop.ru/pictures/53003/53003_P8XhVdhiia4P.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uY3ChaoOU9GE.jpg</image><image>https://2bishop.ru/pictures/53003/53003_4sQiMPcH6E6W.jpg</image><image>https://2bishop.ru/pictures/53003/53003_rGrvk7QewVMr.jpg</image><image>https://2bishop.ru/pictures/53003/53003_1RePFLrRi5JQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2UmEcKRtocIN.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2JAv9mtcjYA.jpg</image><image>https://2bishop.ru/pictures/53003/53003_L19Z3FC6Hry5.jpg</image><image>https://2bishop.ru/pictures/53003/53003_hT8GsnTr99Ee.jpg</image><image>https://2bishop.ru/pictures/53003/53003_q6r6zspbVDPl.jpg</image><image>https://2bishop.ru/pictures/53003/53003_gDyAg4bapC6b.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mR8J4EsZWNGh.jpg</image><image>https://2bishop.ru/pictures/53003/53003_YCfAHOiriGcY.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -837,9 +702,7 @@
         <price>
             <value>1450000</value>
            <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>1</rooms><rooms-type></rooms-type><window-view>во двор</window-view>
-	<bathroom-unit>совмещенный</bathroom-unit><floor>5</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_924wNnbVMwQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5qNOPklYVYVv.jpg</image><image>https://2bishop.ru/pictures/53003/53003_v3EIgGL9AF4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mykgqiXHc8Re.jpg</image><image>https://2bishop.ru/pictures/53003/53003_OvlkpBkiUFfq.jpg</image><image>https://2bishop.ru/pictures/53003/53003_W66LBmIYgAK2.jpg</image><image>https://2bishop.ru/pictures/53003/53003_VA5ca3Zv6jxy.jpg</image><image>https://2bishop.ru/pictures/53003/53003_SUPL7CXZ53bl.jpg</image><image>https://2bishop.ru/pictures/53003/53003_V8ZSbilapBTA.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Qx1r8FSmasO3.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ylZQr67WxyAu.jpg</image>
-         <quality>хорошее</quality>
-
+	<bathroom-unit>совмещенный</bathroom-unit><floor>5</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_924wNnbVMwQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5qNOPklYVYVv.jpg</image><image>https://2bishop.ru/pictures/53003/53003_v3EIgGL9AF4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mykgqiXHc8Re.jpg</image><image>https://2bishop.ru/pictures/53003/53003_OvlkpBkiUFfq.jpg</image><image>https://2bishop.ru/pictures/53003/53003_W66LBmIYgAK2.jpg</image><image>https://2bishop.ru/pictures/53003/53003_VA5ca3Zv6jxy.jpg</image><image>https://2bishop.ru/pictures/53003/53003_SUPL7CXZ53bl.jpg</image><image>https://2bishop.ru/pictures/53003/53003_V8ZSbilapBTA.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Qx1r8FSmasO3.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ylZQr67WxyAu.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -867,9 +730,7 @@
         <price>
             <value>3000000</value>
            <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type>изолированная</rooms-type><balcony>лоджия</balcony>
-	<bathroom-unit>раздельный</bathroom-unit><floor>6</floor><floors-total>9</floors-total><image>https://2bishop.ru/pictures/53003/53003_QRGqvQgrmDe4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_dSZ1p1DTyMJB.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lFHTLYiH5UKH.jpg</image><image>https://2bishop.ru/pictures/53003/53003_BARWcnhjgeKj.jpg</image><image>https://2bishop.ru/pictures/53003/53003_xMdb3zxuPfc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ZlDGDsAmnaEU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_PemzQspn6fhM.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DDJdlssjX52p.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IPR52pFfQAd.jpg</image><image>https://2bishop.ru/pictures/53003/53003_AD2hrXjudZtF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Tq7uJnUQFOe.jpg</image><image>https://2bishop.ru/pictures/53003/53003_YBki7b2ZFdw8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_KODNykxfXnc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_u5Fll85WSyHg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6mp6SrEug1Eu.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mvnWsKrV6vT6.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mQ8MmXKvuzqI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_hfpDhAFfKQ5n.jpg</image><image>https://2bishop.ru/pictures/53003/53003_q6yOId3kuLK3.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Fj5AKNgWSzoe.jpg</image>
-         <quality>хорошее</quality>
-
+	<bathroom-unit>раздельный</bathroom-unit><floor>6</floor><floors-total>9</floors-total><image>https://2bishop.ru/pictures/53003/53003_QRGqvQgrmDe4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_dSZ1p1DTyMJB.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lFHTLYiH5UKH.jpg</image><image>https://2bishop.ru/pictures/53003/53003_BARWcnhjgeKj.jpg</image><image>https://2bishop.ru/pictures/53003/53003_xMdb3zxuPfc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ZlDGDsAmnaEU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_PemzQspn6fhM.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DDJdlssjX52p.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IPR52pFfQAd.jpg</image><image>https://2bishop.ru/pictures/53003/53003_AD2hrXjudZtF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Tq7uJnUQFOe.jpg</image><image>https://2bishop.ru/pictures/53003/53003_YBki7b2ZFdw8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_KODNykxfXnc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_u5Fll85WSyHg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6mp6SrEug1Eu.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mvnWsKrV6vT6.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mQ8MmXKvuzqI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_hfpDhAFfKQ5n.jpg</image><image>https://2bishop.ru/pictures/53003/53003_q6yOId3kuLK3.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Fj5AKNgWSzoe.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>1</parking>
@@ -924,9 +785,7 @@
         <price>
             <value>315000</value>
            <currency>RUR</currency></price><mortgage>0</mortgage><agent-fee>15.873015873016</agent-fee><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>4</rooms><rooms-offered>1</rooms-offered><rooms-type></rooms-type><window-view>во двор</window-view><balcony>балкон</balcony>
-	<bathroom-unit>раздельный</bathroom-unit><floor>5</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_GyDyeDnsCZxq.jpg</image><image>https://2bishop.ru/pictures/53003/53003_zUWicNVmWFB9.jpg</image><image>https://2bishop.ru/pictures/53003/53003_EO32FiLd1nnt.jpg</image><image>https://2bishop.ru/pictures/53003/53003_9voqtHaskUaX.jpg</image><image>https://2bishop.ru/pictures/53003/53003_jaAo14PeX2Gb.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5DVLcVW6p51i.jpg</image><image>https://2bishop.ru/pictures/53003/53003_eUXllxvj7b7y.jpg</image><image>https://2bishop.ru/pictures/53003/53003_bKFnBXDvTCpW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_JqDLeVWkVe7A.jpg</image><image>https://2bishop.ru/pictures/53003/53003_dmN5PtidKTIA.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mNg582YwMCho.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mFTLN5nqRO3U.jpg</image><image>https://2bishop.ru/pictures/53003/53003_XhYMQG8bYXtW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_id4BOtnspX1O.jpg</image>
-         <quality>косметический ремонт</quality>
-
+	<bathroom-unit>раздельный</bathroom-unit><floor>5</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_GyDyeDnsCZxq.jpg</image><image>https://2bishop.ru/pictures/53003/53003_zUWicNVmWFB9.jpg</image><image>https://2bishop.ru/pictures/53003/53003_EO32FiLd1nnt.jpg</image><image>https://2bishop.ru/pictures/53003/53003_9voqtHaskUaX.jpg</image><image>https://2bishop.ru/pictures/53003/53003_jaAo14PeX2Gb.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5DVLcVW6p51i.jpg</image><image>https://2bishop.ru/pictures/53003/53003_eUXllxvj7b7y.jpg</image><image>https://2bishop.ru/pictures/53003/53003_bKFnBXDvTCpW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_JqDLeVWkVe7A.jpg</image><image>https://2bishop.ru/pictures/53003/53003_dmN5PtidKTIA.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mNg582YwMCho.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mFTLN5nqRO3U.jpg</image><image>https://2bishop.ru/pictures/53003/53003_XhYMQG8bYXtW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_id4BOtnspX1O.jpg</image><renovation>косметический</renovation>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -954,9 +813,7 @@
         <price>
             <value>4300000</value>
            <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type>изолированная</rooms-type><window-view>во двор</window-view><balcony>лоджия</balcony>
-	<bathroom-unit>раздельный</bathroom-unit><floor>2</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_TFj8m4oOyDlo.jpg</image><image>https://2bishop.ru/pictures/53003/53003_a4MlV3Q2HJxf.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wHxCBisaCjfQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vo5bci3SujhA.jpg</image><image>https://2bishop.ru/pictures/53003/53003_QWScqZGGGssG.jpg</image><image>https://2bishop.ru/pictures/53003/53003_hGTHPXstKjuJ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uH8eeio6EPcy.jpg</image><image>https://2bishop.ru/pictures/53003/53003_32JZZJ7GgAne.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Y3Rui7iBgC6X.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5RNOExiQrCVs.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sfuFx8jHhP5y.jpg</image><image>https://2bishop.ru/pictures/53003/53003_M3eLQWI1OiV1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DUQLx8uylE7L.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IoVd9WjE66B2.jpg</image><image>https://2bishop.ru/pictures/53003/53003_QRy95UOuI8mf.jpg</image><image>https://2bishop.ru/pictures/53003/53003_H9GD3FuqcTXR.jpg</image><image>https://2bishop.ru/pictures/53003/53003_fXk4xoMZTzgV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_YJYcSBbgHviQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kBopzFGgXBys.jpg</image><image>https://2bishop.ru/pictures/53003/53003_g2gJbDyPW4nh.jpg</image>
-         <quality>косметический ремонт</quality>
-
+	<bathroom-unit>раздельный</bathroom-unit><floor>2</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_TFj8m4oOyDlo.jpg</image><image>https://2bishop.ru/pictures/53003/53003_a4MlV3Q2HJxf.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wHxCBisaCjfQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vo5bci3SujhA.jpg</image><image>https://2bishop.ru/pictures/53003/53003_QWScqZGGGssG.jpg</image><image>https://2bishop.ru/pictures/53003/53003_hGTHPXstKjuJ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uH8eeio6EPcy.jpg</image><image>https://2bishop.ru/pictures/53003/53003_32JZZJ7GgAne.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Y3Rui7iBgC6X.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5RNOExiQrCVs.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sfuFx8jHhP5y.jpg</image><image>https://2bishop.ru/pictures/53003/53003_M3eLQWI1OiV1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DUQLx8uylE7L.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IoVd9WjE66B2.jpg</image><image>https://2bishop.ru/pictures/53003/53003_QRy95UOuI8mf.jpg</image><image>https://2bishop.ru/pictures/53003/53003_H9GD3FuqcTXR.jpg</image><image>https://2bishop.ru/pictures/53003/53003_fXk4xoMZTzgV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_YJYcSBbgHviQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kBopzFGgXBys.jpg</image><image>https://2bishop.ru/pictures/53003/53003_g2gJbDyPW4nh.jpg</image><renovation>косметический</renovation>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -969,7 +826,7 @@
         <type>продажа</type>
         <property-type>жилая</property-type>
         <category>квартира</category>
-        <url>https://2bishop.ru/aparts/4350_53003/</url><creation-date>2020-09-25T10:33:06+03:00</creation-date><last-update-date>2020-10-29T12:52:33+03:00</last-update-date>
+        <url>https://2bishop.ru/aparts/4350_53003/</url><creation-date>2020-09-25T10:33:06+03:00</creation-date><last-update-date>2020-11-29T02:15:06+03:00</last-update-date>
         <manually-added>1</manually-added>
         <location>
             <country>Россия</country><region>Новгородская область</region>
@@ -983,10 +840,8 @@
             <name>Тулина Анна Юрьевна</name><url> elfidel.com</url><email>anna.tulina@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_25jpeg.jpg</photo></sales-agent>
         <price>
             <value>2225000</value>
-           <currency>RUR</currency></price><mortgage>0</mortgage><agent-fee>2.247191011236</agent-fee><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type>изолированная</rooms-type>
-	<bathroom-unit>раздельный</bathroom-unit><floor>1</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_3lkTG4ctGo4A.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kPAZTKtxCyfj.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mmZQtJY45zPD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_UTMrNBpUh783.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IYtd5cMkchQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mzehcUvUy4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kh1Th4QIEeH.jpg</image><image>https://2bishop.ru/pictures/53003/53003_3I61NUf1vQW7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NQfhXC8Lq4P.jpg</image><image>https://2bishop.ru/pictures/53003/53003_9Nd7f8tjcDod.jpg</image><image>https://2bishop.ru/pictures/53003/53003_edCVn3tWdjWH.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IPPfyLSEOW6C.jpg</image><image>https://2bishop.ru/pictures/53003/53003_UMHiRTR1GjuW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_WYbdMLnM6Ut6.jpg</image><image>https://2bishop.ru/pictures/53003/53003_W8qoUws576ge.jpg</image><image>https://2bishop.ru/pictures/53003/53003_QaejYMkdio42.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nqWKIualZBk7.jpg</image>
-         <quality>нужен косметический ремонт</quality>
-
+           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type>изолированная</rooms-type>
+	<bathroom-unit>раздельный</bathroom-unit><floor>1</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_3lkTG4ctGo4A.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kPAZTKtxCyfj.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mmZQtJY45zPD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_UTMrNBpUh783.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IYtd5cMkchQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mzehcUvUy4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kh1Th4QIEeH.jpg</image><image>https://2bishop.ru/pictures/53003/53003_3I61NUf1vQW7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NQfhXC8Lq4P.jpg</image><image>https://2bishop.ru/pictures/53003/53003_9Nd7f8tjcDod.jpg</image><image>https://2bishop.ru/pictures/53003/53003_edCVn3tWdjWH.jpg</image><image>https://2bishop.ru/pictures/53003/53003_IPPfyLSEOW6C.jpg</image><image>https://2bishop.ru/pictures/53003/53003_UMHiRTR1GjuW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_WYbdMLnM6Ut6.jpg</image><image>https://2bishop.ru/pictures/53003/53003_W8qoUws576ge.jpg</image><image>https://2bishop.ru/pictures/53003/53003_QaejYMkdio42.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nqWKIualZBk7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Djuz4rQIm6Ne.jpg</image><renovation>требует ремонта</renovation>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>1</parking>
@@ -995,36 +850,7 @@
     	 <video-review></video-review>
      <description>Появилась в продаже 2-х комнатная квартира в Западном районе проспект Мира, д. 10 на 1 этаже 5-этажного панельного дома. Квартира теплая, уютная и светлая. Общая площадь 44,8 кв. м, комнаты изолированы. Площадь гостиной 17,5 кв.м. Комната большая и светлая, прямоугольной формы, что позволят удобно расставить мебель. Стены выровнены, хорошие обои. Вторая комната 9,9 кв.м. так же светлая и имеет квадратную форму., постелен ламинат. Кухня 6,7 кв.м., остается кухонный гарнитур, ЦГВ! Большая прихожая, металлическая входная дверь и есть не большая кладовка. С/у раздельный.Стояки, трубы поменяны. Дом находится в стороне от проезжей части, в тихом зеленом дворе. Рядом расположены гимназия 4, два детских сада, ТЦ "Барк", магазины, аптеки, остановки. Квартира без долгов и обременений. Звоните, покажу с удовольствием!</description>
      <building-type>Панельный</building-type>
-     <building-series>Улучшенной пл.</building-series><area><value>44.80</value><unit>кв.м</unit></area><living-space><value>27.40</value><unit>кв.м</unit></living-space><kitchen-space><value>6.70</value><unit>кв.м</unit></kitchen-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='15300304355'>
-        <type>продажа</type>
-        <property-type>жилая</property-type>
-        <category>квартира</category>
-        <url>https://2bishop.ru/aparts/4355_53003/</url><creation-date>2020-10-06T09:28:30+03:00</creation-date><last-update-date>2020-11-18T11:17:17+03:00</last-update-date>
-        <manually-added>1</manually-added>
-        <location>
-            <country>Россия</country><region>Новгородская область</region>
-	          <locality-name>Великий Новгород</locality-name>
-	          <sub-locality-name></sub-locality-name><address>Завокзальная улица, дом 12</address><latitude>58.527085999991414</latitude><longitude>31.24584899999999</longitude> </location>
-
-
-        <sales-agent><phone>+79633345341</phone>
-         <category>агентство</category>
-            <organization>АН Эльфидэль</organization>
-            <name>Матвеева Елена</name><url> elfidel.com</url><email>elena.matveeva@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_8.jpg</photo></sales-agent>
-        <price>
-            <value>1800000</value>
-           <currency>RUR</currency></price><mortgage>1</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>1</rooms><rooms-type></rooms-type><window-view>во двор</window-view><balcony>лоджия</balcony><floor>7</floor><floors-total>9</floors-total><image>https://2bishop.ru/pictures/53003/53003_iKtJnJ9pIk3B.jpg</image><image>https://2bishop.ru/pictures/53003/53003_hUiafmYsrOHi.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ysEENdo8bzJF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_iHqdQ5BiOhiU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_QRkbHolh4sw3.jpg</image><image>https://2bishop.ru/pictures/53003/53003_hyNmcFKiTEad.jpg</image><image>https://2bishop.ru/pictures/53003/53003_EXmXO2WLWtHk.jpg</image><image>https://2bishop.ru/pictures/53003/53003_M8Qo1bEvn6J.jpg</image><image>https://2bishop.ru/pictures/53003/53003_UfFIRRz7JffE.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RNJARAnMNrAr.jpg</image><image>https://2bishop.ru/pictures/53003/53003_GTTgJSSWRMzZ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_2xOp3w2zgGld.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mgkW8XxuYZUm.jpg</image><image>https://2bishop.ru/pictures/53003/53003_1kSImaqFUyut.jpg</image><image>https://2bishop.ru/pictures/53003/53003_pByM9CD7imQy.jpg</image>
-         <quality>отличное</quality>
-
-    	<phone>0</phone>
-        <internet>0</internet>
-        <parking>0</parking>
-        <rubbish-chute>1</rubbish-chute>
-        <lift>0</lift>
-    	 <video-review></video-review>
-     <description>Предлагается к продаже однокомнатная квартира на ул. Завокзальная, д.12. Дом 2010 года постройки. Квартира светлая, уютная, с хорошим ремонтом. Общая площадь - 29 кв.м. с просторной лоджией. Комната - 11,8 м.кв, по форме квадратная, можно удачно расположить мебель.Пол ламинат, окна стеклопакеты, потолок натяжной. Кухня - 5,1 м.кв. Окна стеклопакеты, натяжной потолок, на полу качественный линолеум. Из кухни выход на застеклённую, обшитую лоджию. Летом на лоджии можно приятно проводить время, обедать или завтракать, любуясь видами из окна. С/у совмещённый, в кафеле. Сантехника в хорошем состоянии. В коридоре новым жильцам остаётся в подарок просторная гардеробная со встроенными стеллажами, а так же есть место для одного и даже двух велосипедов. В квартире установлена качественная входная железная дверь. По состоянию квартира - въезжай и живи! Дом удачно расположен, район считается одним из элитных в городе с очень развитой инфраструктурой. В шаговой доступности разные магазины, ТЦ Мармелад, парк Юности, Ледовый дворец, автовокзал, ж.д. вокзал, остановки, школа 21, 25. Сам двор и дом ухоженный, в зелени.Есть придомовая детская площадка. Жильцы дома благополучные. Квартира прекрасно подойдёт как для небольшой семьи, так и для одного человека. Документы в порядке. Звоните, покажу с радостью!</description>
-     <building-type>Панельный</building-type>
-     <building-series>Улучшенной пл.</building-series><area><value>29.00</value><unit>кв.м</unit></area><living-space><value>11.80</value><unit>кв.м</unit></living-space><kitchen-space><value>5.10</value><unit>кв.м</unit></kitchen-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='15300304356'>
+     <building-series>Улучшенной пл.</building-series><area><value>44.80</value><unit>кв.м</unit></area><living-space><value>27.40</value><unit>кв.м</unit></living-space><kitchen-space><value>6.70</value><unit>кв.м</unit></kitchen-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='15300304356'>
         <type>аренда</type>
         <property-type>жилая</property-type>
         <category>квартира</category>
@@ -1042,9 +868,7 @@
             <name>Матвеева Елена</name><url> elfidel.com</url><email>elena.matveeva@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_8.jpg</photo></sales-agent>
         <price>
             <value>13000</value>
-           <currency>RUR</currency><period>месяц</period></price><mortgage>0</mortgage><agent-fee>60</agent-fee><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type></rooms-type><balcony>балкон</balcony><floor>3</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_RYrXjQYevrXc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yHhoVYXK9S7r.jpg</image><image>https://2bishop.ru/pictures/53003/53003_C5NKWcv7pSYw.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yr2gMnb88Bc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_WI3WSMtEFDPJ.jpg</image>
-         <quality>хорошее</quality>
-
+           <currency>RUR</currency><period>месяц</period></price><mortgage>0</mortgage><agent-fee>60</agent-fee><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type></rooms-type><balcony>балкон</balcony><floor>3</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_RYrXjQYevrXc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yHhoVYXK9S7r.jpg</image><image>https://2bishop.ru/pictures/53003/53003_C5NKWcv7pSYw.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yr2gMnb88Bc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_WI3WSMtEFDPJ.jpg</image><quality>хорошее</quality>
         <internet>0</internet>
         <room-furniture>1</room-furniture>
         <kitchen-furniture>0</kitchen-furniture>
@@ -1157,9 +981,7 @@
         <price>
             <value>2150000</value>
            <currency>RUR</currency></price><mortgage>0</mortgage><agent-fee>2.3255813953488</agent-fee><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>3</rooms><rooms-type>смежно-изолированная</rooms-type><window-view>на улицу</window-view><window-view>во двор</window-view><balcony>балкон</balcony>
-	<bathroom-unit>раздельный</bathroom-unit><floor>5</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_UmnwMXGrjhUT.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NGNajglxfeP3.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lZruq8LJZ3ZD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ekyzo5kMLc4Q.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LWWUgQc7mj8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_9Bp93cM4UfWk.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yNFwEyjX6xCO.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vi3G8aHrbzD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_b1LQQeaPM1M.jpg</image><image>https://2bishop.ru/pictures/53003/53003_N5BPYomFBXUn.jpg</image><image>https://2bishop.ru/pictures/53003/53003_bKK1GNHq8WYe.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RKLBYs8CFfrL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uUxooa2xWN6.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6ioVxfgtMilf.jpg</image><image>https://2bishop.ru/pictures/53003/53003_hiXEnn9uizMK.jpg</image><image>https://2bishop.ru/pictures/53003/53003_eSPLRncbTX4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_AZlBPJ7pSFED.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RDGsSS7hMLQ8.jpg</image>
-         <quality>нужен косметический ремонт</quality>
-
+	<bathroom-unit>раздельный</bathroom-unit><floor>5</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_UmnwMXGrjhUT.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NGNajglxfeP3.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lZruq8LJZ3ZD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ekyzo5kMLc4Q.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LWWUgQc7mj8.jpg</image><image>https://2bishop.ru/pictures/53003/53003_9Bp93cM4UfWk.jpg</image><image>https://2bishop.ru/pictures/53003/53003_yNFwEyjX6xCO.jpg</image><image>https://2bishop.ru/pictures/53003/53003_vi3G8aHrbzD.jpg</image><image>https://2bishop.ru/pictures/53003/53003_b1LQQeaPM1M.jpg</image><image>https://2bishop.ru/pictures/53003/53003_N5BPYomFBXUn.jpg</image><image>https://2bishop.ru/pictures/53003/53003_bKK1GNHq8WYe.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RKLBYs8CFfrL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uUxooa2xWN6.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6ioVxfgtMilf.jpg</image><image>https://2bishop.ru/pictures/53003/53003_hiXEnn9uizMK.jpg</image><image>https://2bishop.ru/pictures/53003/53003_eSPLRncbTX4.jpg</image><image>https://2bishop.ru/pictures/53003/53003_AZlBPJ7pSFED.jpg</image><image>https://2bishop.ru/pictures/53003/53003_RDGsSS7hMLQ8.jpg</image><renovation>требует ремонта</renovation>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -1187,9 +1009,7 @@
         <price>
             <value>1500000</value>
            <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type></rooms-type><window-view>во двор</window-view>
-	<bathroom-unit>совмещенный</bathroom-unit><floor>1</floor><floors-total>2</floors-total><image>https://2bishop.ru/pictures/53003/53003_poJWYrZW1ZrV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_swjy7W7GSnaU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_p8oB7wP5dX6a.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NwblqHG17mdR.jpg</image><image>https://2bishop.ru/pictures/53003/53003_C9YsjoDlzJ5Y.jpg</image><image>https://2bishop.ru/pictures/53003/53003_A5eJY4k9LhEP.jpg</image><image>https://2bishop.ru/pictures/53003/53003_walgkn9Wr7v7.jpg</image>
-         <quality>хорошее</quality>
-
+	<bathroom-unit>совмещенный</bathroom-unit><floor>1</floor><floors-total>2</floors-total><image>https://2bishop.ru/pictures/53003/53003_poJWYrZW1ZrV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_swjy7W7GSnaU.jpg</image><image>https://2bishop.ru/pictures/53003/53003_p8oB7wP5dX6a.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NwblqHG17mdR.jpg</image><image>https://2bishop.ru/pictures/53003/53003_C9YsjoDlzJ5Y.jpg</image><image>https://2bishop.ru/pictures/53003/53003_A5eJY4k9LhEP.jpg</image><image>https://2bishop.ru/pictures/53003/53003_walgkn9Wr7v7.jpg</image><quality>хорошее</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
@@ -1256,7 +1076,7 @@
         <type>продажа</type>
         <property-type>жилая</property-type>
         <category>квартира</category>
-        <url>https://2bishop.ru/aparts/4377_53003/</url><creation-date>2020-11-17T16:59:08+03:00</creation-date><last-update-date>2020-11-17T18:36:42+03:00</last-update-date>
+        <url>https://2bishop.ru/aparts/4377_53003/</url><creation-date>2020-11-17T16:59:08+03:00</creation-date><last-update-date>2020-11-29T07:55:37+03:00</last-update-date>
         <manually-added>1</manually-added>
         <location>
             <country>Россия</country><region>Новгородская область</region>
@@ -1271,16 +1091,14 @@
         <price>
             <value>1800000</value>
            <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type>изолированная</rooms-type><window-view>во двор</window-view><balcony>лоджия</balcony>
-	<bathroom-unit>раздельный</bathroom-unit><floor>3</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_PnjbIoefhIKa.jpg</image><image>https://2bishop.ru/pictures/53003/53003_rigZaIntY2MK.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Suu76viclkmo.jpg</image><image>https://2bishop.ru/pictures/53003/53003_iqjWKTVtKyh.jpg</image><image>https://2bishop.ru/pictures/53003/53003_zTFI9z6pnbEB.jpg</image><image>https://2bishop.ru/pictures/53003/53003_JclRPY9omC11.jpg</image>
-         <quality>удовлетворительное</quality>
-
+	<bathroom-unit>раздельный</bathroom-unit><floor>3</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_TJVPRpaMA57r.jpg</image><image>https://2bishop.ru/pictures/53003/53003_sb1u5ImvkzM.jpg</image><image>https://2bishop.ru/pictures/53003/53003_8ZmYZhjOP2pM.jpg</image><image>https://2bishop.ru/pictures/53003/53003_QtflXHKwdvIp.jpg</image><image>https://2bishop.ru/pictures/53003/53003_NRBdjqK9BsEz.jpg</image><image>https://2bishop.ru/pictures/53003/53003_mayQOvYqfnUN.jpg</image><image>https://2bishop.ru/pictures/53003/53003_pmvifwcLHZo1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Q5DRgY3mvx8r.jpg</image><image>https://2bishop.ru/pictures/53003/53003_A5z5X49aDxNL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_7iRrrboe6Ppg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uxNmXxf4xtc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_38tgp34dwk8R.jpg</image><image>https://2bishop.ru/pictures/53003/53003_qW6pQs4AT63p.jpg</image><image>https://2bishop.ru/pictures/53003/53003_siyy7rlP3WPq.jpg</image><image>https://2bishop.ru/pictures/53003/53003_4kcnBTnAKhyp.jpg</image><quality>нормальное</quality>
     	<phone>0</phone>
         <internet>0</internet>
         <parking>0</parking>
         <rubbish-chute>0</rubbish-chute>
         <lift>0</lift>
     	 <video-review></video-review>
-     <description>Предлагается к продаже 2-х комнатная квартира в Псковском районе, в пгт. Панковка на 3 этаже 5-этажного кирпичного дома 2000 года. Квартира теплая, уютная и светлая в обычном состоянии. Общая площадь 48,1 кв. м, комнаты изолированы, выходят на разные стороны. Площадь гостиной 14,6 кв.м. Комната большая и светлая, прямоугольной формы, что позволят удобно расставить мебель. Вторая комната 13,3 кв.м. так же светлая и имеет квадратную форму. Кухня 8 кв.м., ЦГВ! Из кухни выход на вместительную застекленную лоджию. Большая прихожая 8,2 кв.м. С/у раздельный. Стояки, трубы поменяны. Квартира свободна от проживания, ждет уверенных и хозяйских рук! Дом находится в стороне от проезжей части, в тихом дворе. Рядом расположены детский сад, школа, магазины, аптека, остановки. Квартира без долгов и обременений. Рассмотрю любые формы расчетов. Не продано свое жилье Ипотека Субсидия Сертификат Решу Ваш вопрос. Звоните! Покажу в удобное для Вас время.</description>
+     <description>Предлагается к продаже 2-х комнатная квартира в пгт. Панковка на 3 этаже 5-этажного кирпичного дома 2000 года. Квартира теплая, уютная и светлая в обычном состоянии. Общая площадь 48,1 кв. м, комнаты изолированы, выходят на разные стороны. Площадь гостиной 14,6 кв.м. Комната большая и светлая, прямоугольной формы, что позволят удобно расставить мебель. Вторая комната 13,3 кв.м. так же светлая и имеет квадратную форму. Кухня 8 кв.м., ЦГВ! Из кухни выход на вместительную застекленную лоджию. Большая прихожая 8,2 кв.м. С/у раздельный. Стояки, трубы поменяны. Квартира свободна от проживания, ждет уверенных и хозяйских рук! Дом находится в стороне от проезжей части, в тихом дворе. Рядом расположены детский сад, школа, магазины, аптека, остановки. Квартира без долгов и обременений. Рассмотрю любые формы расчетов. Не продано свое жилье Ипотека Субсидия Сертификат Решу Ваш вопрос. Звоните! Покажу в удобное для Вас время.</description>
      <building-type>Кирпичный</building-type>
      <building-series></building-series><area><value>48.10</value><unit>кв.м</unit></area><living-space><value>27.90</value><unit>кв.м</unit></living-space><kitchen-space><value>8.00</value><unit>кв.м</unit></kitchen-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='15300304378'>
         <type>продажа</type>
@@ -1329,9 +1147,7 @@
         <price>
             <value>16000</value>
            <currency>RUR</currency><period>месяц</period></price><mortgage>0</mortgage><agent-fee>60</agent-fee><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type>изолированная</rooms-type><balcony>лоджия</balcony>
-	<bathroom-unit>раздельный</bathroom-unit><floor>6</floor><floors-total>9</floors-total><image>https://2bishop.ru/pictures/53003/53003_EWRBNgdRfHQd.jpg</image><image>https://2bishop.ru/pictures/53003/53003_4CtDF7SL8Q9N.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kVa5ICay7kPs.jpg</image><image>https://2bishop.ru/pictures/53003/53003_YFh8tdweXa7S.jpg</image><image>https://2bishop.ru/pictures/53003/53003_KMaFCrKoCJwg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_C5D6xtylYUt.jpg</image><image>https://2bishop.ru/pictures/53003/53003_jMvqF25TGTV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_VdWH8ZwaJOon.jpg</image><image>https://2bishop.ru/pictures/53003/53003_z2y5JrgmCLZq.jpg</image><image>https://2bishop.ru/pictures/53003/53003_xFfYuREnyX3s.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wZde53HKSGo1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_eWD1cAbTy493.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nDKWegHrDJkm.jpg</image><image>https://2bishop.ru/pictures/53003/53003_qWYtAStPzv8N.jpg</image>
-         <quality>отличное</quality>
-
+	<bathroom-unit>раздельный</bathroom-unit><floor>6</floor><floors-total>9</floors-total><image>https://2bishop.ru/pictures/53003/53003_EWRBNgdRfHQd.jpg</image><image>https://2bishop.ru/pictures/53003/53003_4CtDF7SL8Q9N.jpg</image><image>https://2bishop.ru/pictures/53003/53003_kVa5ICay7kPs.jpg</image><image>https://2bishop.ru/pictures/53003/53003_YFh8tdweXa7S.jpg</image><image>https://2bishop.ru/pictures/53003/53003_KMaFCrKoCJwg.jpg</image><image>https://2bishop.ru/pictures/53003/53003_C5D6xtylYUt.jpg</image><image>https://2bishop.ru/pictures/53003/53003_jMvqF25TGTV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_VdWH8ZwaJOon.jpg</image><image>https://2bishop.ru/pictures/53003/53003_z2y5JrgmCLZq.jpg</image><image>https://2bishop.ru/pictures/53003/53003_xFfYuREnyX3s.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wZde53HKSGo1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_eWD1cAbTy493.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nDKWegHrDJkm.jpg</image><image>https://2bishop.ru/pictures/53003/53003_qWYtAStPzv8N.jpg</image><quality>отличное</quality>
         <internet>0</internet>
         <room-furniture>1</room-furniture>
         <kitchen-furniture>1</kitchen-furniture>
@@ -1360,9 +1176,7 @@
         <price>
             <value>11000</value>
            <currency>RUR</currency><period>месяц</period></price><mortgage>0</mortgage><agent-fee>50</agent-fee><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type></rooms-type><balcony>лоджия</balcony>
-	<bathroom-unit>раздельный</bathroom-unit><floor>3</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_n4URdvbfvs8d.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nXr3bdgh2afW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_alA498IvX.jpg</image><image>https://2bishop.ru/pictures/53003/53003_HvN23tiCjU2u.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wlCHVoQlgckL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_THY9m9394moW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LnpGniCqhBYI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_8VP75AIl57Wk.jpg</image><image>https://2bishop.ru/pictures/53003/53003_dT3gf7oBW4z6.jpg</image><image>https://2bishop.ru/pictures/53003/53003_VuzRvfEDCoF2.jpg</image>
-         <quality>хорошее</quality>
-
+	<bathroom-unit>раздельный</bathroom-unit><floor>3</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_n4URdvbfvs8d.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nXr3bdgh2afW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_alA498IvX.jpg</image><image>https://2bishop.ru/pictures/53003/53003_HvN23tiCjU2u.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wlCHVoQlgckL.jpg</image><image>https://2bishop.ru/pictures/53003/53003_THY9m9394moW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_LnpGniCqhBYI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_8VP75AIl57Wk.jpg</image><image>https://2bishop.ru/pictures/53003/53003_dT3gf7oBW4z6.jpg</image><image>https://2bishop.ru/pictures/53003/53003_VuzRvfEDCoF2.jpg</image><quality>хорошее</quality>
         <internet>0</internet>
         <room-furniture>1</room-furniture>
         <kitchen-furniture>0</kitchen-furniture>
@@ -1372,7 +1186,91 @@
     	 <video-review></video-review>
      <description>Сдаётся 2 к.квартира на Торговой стороне ул.Парковая, д.18 к.3. Квартира тёплая в кирпичном доме, на третьем этаже, с застеклённой лоджией. В квартире из техники есть стиральная машина, холодильник. Из мебели в одной комнате: шкаф и односпальная кровать. Во второй комнате, стенка, стол и телевизор, нет спального места. Квартира подойдёт для любой семьи. Звоните, покажу с удовольствием!</description>
      <building-type>Кирпичный</building-type>
-     <building-series>Улучшенной пл.</building-series><area><value>50.00</value><unit>кв.м</unit></area><living-space><value>37.00</value><unit>кв.м</unit></living-space><kitchen-space><value>8.00</value><unit>кв.м</unit></kitchen-space></offer> <offer internal-id='25300302285'>
+     <building-series>Улучшенной пл.</building-series><area><value>50.00</value><unit>кв.м</unit></area><living-space><value>37.00</value><unit>кв.м</unit></living-space><kitchen-space><value>8.00</value><unit>кв.м</unit></kitchen-space></offer> <offer internal-id='15300304383'>
+        <type>аренда</type>
+        <property-type>жилая</property-type>
+        <category>квартира</category>
+        <url>https://2bishop.ru/aparts/4383_53003/</url><creation-date>2020-11-26T20:38:00+03:00</creation-date><last-update-date>2020-11-26T20:39:44+03:00</last-update-date>
+        <manually-added>1</manually-added>
+        <location>
+            <country>Россия</country><region>Новгородская область</region>
+	          <locality-name>Великий Новгород</locality-name>
+	          <sub-locality-name></sub-locality-name><address>Кочетова улица, дом 8к1</address><latitude>58.543043999991426</latitude><longitude>31.224011</longitude> </location>
+
+
+        <sales-agent><phone>+79633345342</phone>
+         <category>агентство</category>
+            <organization>АН Эльфидэль</organization>
+            <name>Щапкова Ольга</name><url> elfidel.com</url><email>olga.shapkova@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_11.jpg</photo></sales-agent>
+        <price>
+            <value>14000</value>
+           <currency>RUR</currency><period>месяц</period></price><mortgage>0</mortgage><agent-fee>50</agent-fee><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>2</rooms><rooms-type>изолированная</rooms-type><balcony>лоджия</balcony>
+	<bathroom-unit>раздельный</bathroom-unit><floor>3</floor><floors-total>9</floors-total><image>https://2bishop.ru/pictures/53003/53003_f1Dqey1GGvqT.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wCyP8Qb7R89f.jpg</image><image>https://2bishop.ru/pictures/53003/53003_N4jBqwxpP4gx.jpg</image><image>https://2bishop.ru/pictures/53003/53003_oYxIS1kW92L1.jpg</image><image>https://2bishop.ru/pictures/53003/53003_QhJ5ryHPV1tG.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ksI1Kwr2jYfQ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_Ag8jLLLOxI5Y.jpg</image><image>https://2bishop.ru/pictures/53003/53003_9P9EfcihJF7w.jpg</image><image>https://2bishop.ru/pictures/53003/53003_4dGRlbwpmmI.jpg</image><quality>отличное</quality>
+        <internet>1</internet>
+        <room-furniture>1</room-furniture>
+        <kitchen-furniture>1</kitchen-furniture>
+        <television>1</television>
+        <washing-machine>1</washing-machine>
+        <refrigerator>1</refrigerator>
+    	 <video-review><online-show>1</online-show></video-review>
+     <description>Сдается отличная, уютная и просторная двухкомнатная квартира в панельном девятиэтажном доме 2005 года постройки на третьем этаже. Общая площадь 53 кв.м., площадь кухни 7,5 кв.м., две изолированные комнаты площадью 19 и 17 кв.м., есть лоджия, раздельный санузел, центральное горячее водоснабжение. В квартире имеется вся необходимая мебель, холодильник, телевизор, газовая плита, стиральная машина, микроволновка, а также набор посуды. Из спальных мест есть раскладывающийся диван и две кровати. Кабельное телевидение и интернет. Район с очень развитой инфраструктурой, прекрасной транспортной доступностью. Все, что необходимо для комфортного проживания находится в пешей доступности: школы, детские сады, медицинские центры, магазины, Кочетовский торговый комплекс, развлекательные центры. Отличное место для проживания и отдыха. Сдается некурящим, без животных. Арендная плата 14 000 руб. + счетчики, комиссия 7 000 руб.</description>
+     <building-type>Панельный</building-type>
+     <building-series>Улучшенной пл.</building-series><area><value>53.00</value><unit>кв.м</unit></area><living-space><value>36.00</value><unit>кв.м</unit></living-space><kitchen-space><value>7.50</value><unit>кв.м</unit></kitchen-space></offer> <offer internal-id='15300304384'>
+        <type>продажа</type>
+        <property-type>жилая</property-type>
+        <category>комната</category>
+        <url>https://2bishop.ru/aparts/4384_53003/</url><creation-date>2020-11-27T16:58:16+03:00</creation-date><last-update-date>2020-11-27T17:16:20+03:00</last-update-date>
+        <manually-added>1</manually-added>
+        <location>
+            <country>Россия</country><region>Новгородская область</region>
+	          <locality-name>Великий Новгород</locality-name>
+	          <sub-locality-name></sub-locality-name><address>Ветеранов улица, дом 8</address><latitude>58.57804525201186</latitude><longitude>31.311840373016352</longitude> </location>
+
+
+        <sales-agent><phone>+79633345377</phone>
+         <category>агентство</category>
+            <organization>АН Эльфидэль</organization>
+            <name>Тулина Анна Юрьевна</name><url> elfidel.com</url><email>anna.tulina@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_25jpeg.jpg</photo></sales-agent>
+        <price>
+            <value>300000</value>
+           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>4</rooms><rooms-offered>1</rooms-offered><rooms-type></rooms-type><floor>5</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_I1rKfThfCzF.jpg</image><image>https://2bishop.ru/pictures/53003/53003_B2bVnSpJEjc.jpg</image><image>https://2bishop.ru/pictures/53003/53003_DyEFbv7ZX3E9.jpg</image><image>https://2bishop.ru/pictures/53003/53003_ute66oPBCZ1A.jpg</image><image>https://2bishop.ru/pictures/53003/53003_U6CLF4GHoqBU.jpg</image><renovation>требует ремонта</renovation>
+    	<phone>0</phone>
+        <internet>0</internet>
+        <parking>0</parking>
+        <rubbish-chute>0</rubbish-chute>
+        <lift>0</lift>
+    	 <video-review></video-review>
+     <description>Предлагается к продаже комната 17,1 кв.м. в общежитии коридорного типа. Комната без ремонта, но установлен стеклопакет. Сделано зонирование, выделена зона кухни и прихожей. Выложен кафель и повешена вытяжка. Комната ждет уверенных хозяйских рук. Места общего пользования в нормальном состоянии. Дом расположен в районе с отличной инфраструктурой: школа, детский сад, магазины, почта, баня, СТО, платная стоянка, остановка городского автотранспорта. Звоните, покажу в удобное для Вас время!</description>
+     <building-type>Кирпичный</building-type>
+     <building-series>Старый фонд</building-series><area><value>50.00</value><unit>кв.м</unit></area><living-space><value>17.10</value><unit>кв.м</unit></living-space><kitchen-space><value>8.00</value><unit>кв.м</unit></kitchen-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='15300304385'>
+        <type>продажа</type>
+        <property-type>жилая</property-type>
+        <category>квартира</category>
+        <url>https://2bishop.ru/aparts/4385_53003/</url><creation-date>2020-11-27T23:04:38+03:00</creation-date><last-update-date>2020-11-27T23:04:59+03:00</last-update-date>
+        <manually-added>1</manually-added>
+        <location>
+            <country>Россия</country><region>Новгородская область</region>
+	          <locality-name>Великий Новгород</locality-name>
+	          <sub-locality-name></sub-locality-name><address>Связи улица, дом 7</address><latitude>58.53111299999142</latitude><longitude>31.308417000000013</longitude> </location>
+
+
+        <sales-agent><phone>+79633345377</phone>
+         <category>агентство</category>
+            <organization>АН Эльфидэль</organization>
+            <name>Тулина Анна Юрьевна</name><url> elfidel.com</url><email>anna.tulina@elfidel.com</email><photo>https://2bishop.ru/files/avatars/agph_53003_25jpeg.jpg</photo></sales-agent>
+        <price>
+            <value>2500000</value>
+           <currency>RUR</currency></price><mortgage>0</mortgage><payed-adv>0</payed-adv><utilities-included>1</utilities-included><rooms>4</rooms><rooms-type>смежно-изолированная</rooms-type><balcony>2 балкона</balcony>
+	<bathroom-unit>раздельный</bathroom-unit><floor>3</floor><floors-total>5</floors-total><image>https://2bishop.ru/pictures/53003/53003_en2lf5j7zZqJ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_FQrtZ65SULkV.jpg</image><image>https://2bishop.ru/pictures/53003/53003_At75Dd5KFwDi.jpg</image><image>https://2bishop.ru/pictures/53003/53003_GRQZTSuNEzVh.jpg</image><image>https://2bishop.ru/pictures/53003/53003_KtPLhGOhdFj.jpg</image><image>https://2bishop.ru/pictures/53003/53003_6vZNd3qIwHN7.jpg</image><image>https://2bishop.ru/pictures/53003/53003_uLVXk4tfNK.jpg</image><image>https://2bishop.ru/pictures/53003/53003_5fMMz5elOrOI.jpg</image><image>https://2bishop.ru/pictures/53003/53003_TDZZEI8hwuW.jpg</image><image>https://2bishop.ru/pictures/53003/53003_y2GT2LMTJ9Tu.jpg</image><image>https://2bishop.ru/pictures/53003/53003_VuCvm21wGu14.jpg</image><image>https://2bishop.ru/pictures/53003/53003_wECwPptN52xJ.jpg</image><image>https://2bishop.ru/pictures/53003/53003_FIKI8Uyb3rdp.jpg</image><image>https://2bishop.ru/pictures/53003/53003_GgEGfklNFpSl.jpg</image><image>https://2bishop.ru/pictures/53003/53003_lSUG2zmalegC.jpg</image><image>https://2bishop.ru/pictures/53003/53003_9IZZnZmq8I6a.jpg</image><image>https://2bishop.ru/pictures/53003/53003_HL5F8lTqPfT.jpg</image><image>https://2bishop.ru/pictures/53003/53003_oiquOVMspUxk.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nxzeDDF15x6M.jpg</image><image>https://2bishop.ru/pictures/53003/53003_nCFNge55lhDM.jpg</image><quality>нормальное</quality>
+    	<phone>0</phone>
+        <internet>0</internet>
+        <parking>0</parking>
+        <rubbish-chute>0</rubbish-chute>
+        <lift>0</lift>
+    	 <video-review></video-review>
+     <description>Предлагается к продаже 4х комнатная квартира 3/5 кирпичного дома на Торговой стороне на улице Связи. Общая площадь 61,4 кв.м, кухня 5,98 кв.м. Одна комната изолированная, три смежно-изолированные. Два застекленных балкона выходят на разные стороны. Помещения правильной прямоугольной формы, что позволит с комфортом расставить мебель. С/у раздельный, кафель, заменены трубы. Аккуратный чистый подъезд. Во дворе достаточное количество парковочных мест. Отличное расположение дома в сочетании с развитой инфраструктурой! Всё необходимое для комфортной жизни в шаговой доступности. Магазины, школы, гимназия с дошкольным отделением "Квант", детские сады, кафе, больницы, остановки. Недалеко расположен большой парк с детскими развлечениями и площадками, набережная для вечерних прогулок! Свободна от проживания, ждет уверенных хозяйских рук. Звоните, покажу с удовольствием!</description>
+     <building-type>Кирпичный</building-type>
+     <building-series>Хрущёвка</building-series><area><value>61.40</value><unit>кв.м</unit></area><living-space><value>44.40</value><unit>кв.м</unit></living-space><kitchen-space><value>5.98</value><unit>кв.м</unit></kitchen-space><deal-status>прямая продажа</deal-status></offer> <offer internal-id='25300302285'>
         <type>продажа</type>
         <property-type>жилая</property-type>
         <category>участок</category>
